@@ -23,18 +23,18 @@ Useful URLs:
 
 The app runs on Cloudflare Workers through the OpenNext adapter (`@opennextjs/cloudflare`). Config: `wrangler.jsonc` (worker name `asianshop`), `open-next.config.ts` (prerendered pages are served read-only from the deployed static assets, so no R2 bucket is needed), `public/_headers`.
 
-**From GitHub (automatic deploys):** Cloudflare dashboard → *Workers & Pages* → *Create* → *Import a repository* → pick this repo, then:
+**From GitHub (automatic deploys):** Cloudflare dashboard → *Workers & Pages* → *Create* → *Import a repository* → pick this repo. Cloudflare's default settings work as they are:
 
 | Setting | Value |
 |---|---|
-| Build command | `npm run build:cf` |
-| Deploy command | `npx opennextjs-cloudflare deploy` |
+| Build command | `npm run build` (default) |
+| Deploy command | `npx wrangler deploy` (default; it detects OpenNext and runs `opennextjs-cloudflare deploy`) |
 | Root directory | `/` |
 | Node version | 22 (from `.node-version`) |
 
-Every push to `main` then builds and deploys. The worker name in the dashboard must match `name` in `wrangler.jsonc`. Use exactly this deploy command, not the default `npx wrangler deploy`: it also uploads the prerendered pages.
+`npm run build` is the Cloudflare build: it runs `scripts/patch-opennext.mjs`, then `opennextjs-cloudflare build`, which builds Next itself with `npx next build` (`buildCommand` in `open-next.config.ts`). Use `npm run build:next` for a plain Next build. Every push to `main` then builds and deploys. The worker name in the dashboard must match `name` in `wrangler.jsonc`.
 
-`build:cf` first runs `scripts/patch-opennext.mjs`. Next.js 16.4 added a server file (`preview-props.json`) that the adapter doesn't bundle yet, and without the patch every page returns 500 on Cloudflare. Remove it once `@opennextjs/cloudflare` handles that file.
+The patch is needed because Next.js 16.4 added a server file (`preview-props.json`) that the adapter doesn't bundle yet; without it every page returns 500 on Cloudflare. Remove it once `@opennextjs/cloudflare` handles that file.
 
 **From this computer:** `npx wrangler login` once, then `npm run deploy`. `npm run preview` runs the production build locally in Cloudflare's runtime.
 
