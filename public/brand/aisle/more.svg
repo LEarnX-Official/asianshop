@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <!-- drawn to match the shop's aisle icons: pastel disc, deep green ring, flat illustration -->
+  <circle cx="120" cy="120" r="108" fill="#f6eff8" stroke="#1c3e2e" stroke-width="6"/>
+  <g transform="translate(120 122) scale(.82) translate(-120 -122)">
+  <!-- incense smoke -->
+  <path d="M120 66c-8 8 8 14 0 24s8 14 0 22" fill="none" stroke="#b9a7c2" stroke-width="4" stroke-linecap="round"/>
+  <!-- incense stick -->
+  <rect x="117.5" y="108" width="5" height="44" rx="2" fill="#8a4b2a"/>
+  <circle cx="120" cy="108" r="3.5" fill="#e8564a"/>
+  <!-- lotus -->
+  <path d="M120 176c-20 0-34-10-38-24 14 0 28 6 38 24z" fill="#e889a8"/>
+  <path d="M120 176c20 0 34-10 38-24-14 0-28 6-38 24z" fill="#e889a8"/>
+  <path d="M120 176c-10-10-14-24-8-38 10 8 14 22 8 38z" fill="#f2a7c0"/>
+  <path d="M120 176c10-10 14-24 8-38-10 8-14 22-8 38z" fill="#f2a7c0"/>
+  <path d="M120 176c-6-14-6-28 0-40 6 12 6 26 0 40z" fill="#f7c6d6"/>
+  <rect x="88" y="174" width="64" height="8" rx="4" fill="#2f7d4f"/>
+  </g>
+</svg>

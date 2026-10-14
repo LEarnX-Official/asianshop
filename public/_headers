@@ -1,0 +1,13 @@
+# Cloudflare static asset headers
+/_next/static/*
+  Cache-Control: public,max-age=31536000,immutable
+
+/products/*
+  Cache-Control: public,max-age=604800
+
+/brand/*
+  Cache-Control: public,max-age=604800
+
+# A pitch prototype, not the live shop: keep every page out of search engines.
+/*
+  X-Robots-Tag: noindex, nofollow

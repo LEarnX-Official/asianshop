@@ -1,26 +1,184 @@
 @import "tailwindcss";
 
+/* ------------------------------------------------------------------
+   Design tokens (UI Blueprint Part 3). Festival themes change only the
+   --festival-* accents, never text colours.
+------------------------------------------------------------------- */
+@theme {
+  --color-ink: #1f1a17;
+  --color-ink-soft: #4a423b;
+  --color-ink-muted: #6b625a;
+  --color-linen: #faf6ef;
+  --color-stone: #f1eadf;
+  --color-warm: #fffdf8;
+  --color-line: #e6dccd;
+  --color-saffron: #c8611e;
+  --color-saffron-text: #b4521a;
+  --color-saffron-deep: #a8481a;
+  --color-turmeric: #e8964f;
+  --color-cardamom: #1e5f5b;
+  --color-chilli: #b3261e;
+
+  --font-serif: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-dm-sans), system-ui, sans-serif;
+
+  --radius-card: 16px;
+  --shadow-lift: 0 6px 20px rgba(31, 26, 23, 0.08);
+
+  --ease-settle: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --dur-feedback: 150ms;
+  --dur-ui: 250ms;
+  --dur-page: 400ms;
+  --dur-hero: 600ms;
+  --festival-1: var(--color-saffron);
+  --festival-2: var(--color-turmeric);
+
+  /* window lighting (Experience Script S1), "day" default */
+  --sky-top: #a9cbe6;
+  --sky-bottom: #e9f1f4;
+  --roof-far: #b9c3c9;
+  --roof-near: #8e989f;
+  --lit: 0;
+  --sun: 1;
+  --moon: 0;
+  --room-glow: 0.15;
+}
+:root[data-sky="morning"] { --sky-top: #f3d9a4; --sky-bottom: #fbeedd; --roof-far: #d6c2a8; --roof-near: #b39e86; --lit: 0.2; --sun: 1; --moon: 0; --room-glow: 0.2; }
+:root[data-sky="evening"] { --sky-top: #e9a77a; --sky-bottom: #f6d2b8; --roof-far: #b98a7a; --roof-near: #7f5c55; --lit: 0.7; --sun: 0.9; --moon: 0; --room-glow: 0.45; }
+:root[data-sky="night"] { --sky-top: #1d2440; --sky-bottom: #3a3f63; --roof-far: #2b2f4a; --roof-near: #181b2e; --lit: 1; --sun: 0; --moon: 1; --room-glow: 0.6; }
+
+html { background: var(--color-linen); color: var(--color-ink); }
+body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+::selection { background: #f3d2b4; }
+
+:focus-visible { outline: 2px solid var(--color-saffron); outline-offset: 2px; border-radius: 6px; }
+
+.font-serif { font-family: var(--font-serif); font-optical-sizing: auto; }
+.tabular { font-variant-numeric: tabular-nums; }
+
+/* Pack photos sit on a stone tile; the white photo background melts into it. */
+.pack-tile { background: var(--color-stone); }
+.pack-img { mix-blend-mode: multiply; }
+
+/* ------------------------------------------------------------------
+   Motion. Only transform + opacity animate (Script 0.3).
+------------------------------------------------------------------- */
+@keyframes steam {
+  0% { transform: translateY(6px) scaleX(1); opacity: 0; }
+  30% { opacity: 0.55; }
+  100% { transform: translateY(-26px) scaleX(1.25); opacity: 0; }
+}
+/* Three cycles, then a still frame (Script S1): a second animation fades in a faint resting wisp. */
+@keyframes steam-rest { from { opacity: 0; transform: translateY(0); } to { opacity: 0.35; transform: translateY(-6px); } }
+.steam { opacity: 0; transform-box: fill-box; transform-origin: center bottom; animation-name: steam, steam-rest; animation-duration: 2.4s, 0.8s; animation-timing-function: ease-in-out, ease-out; animation-iteration-count: 3, 1; animation-fill-mode: backwards, forwards; }
+
+@keyframes bump { 0%, 100% { transform: scale(1); } 45% { transform: scale(1.15); } }
+.bump { animation: bump 250ms var(--ease-settle); }
+
+@keyframes sweep { from { transform: translateX(-120%); } to { transform: translateX(220%); } }
+
+@keyframes toast-in { from { transform: translateY(16px); opacity: 0; } to { transform: none; opacity: 1; } }
+.toast-in { animation: toast-in var(--dur-ui) var(--ease-settle) both; }
+
+@keyframes shimmer { 0% { background-position: -400px 0; } 100% { background-position: 400px 0; } }
+.skeleton {
+  background: linear-gradient(90deg, #efe7da 0%, #f7f1e8 50%, #efe7da 100%);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s linear infinite;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.fly-token {
+  position: fixed; left: 0; top: 0; width: 10px; height: 10px; border-radius: 999px;
+  background: var(--color-saffron); pointer-events: none; z-index: 100; will-change: transform, opacity;
+}
+.fly-token--marigold {
+  width: 14px; height: 14px; border-radius: 60% 0 60% 0; background: radial-gradient(circle at 30% 30%, #ffc94d, #f08a12);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Card -> page match cut (signature moment 4) */
+::view-transition-group(.morph) { animation-duration: 400ms; animation-timing-function: var(--ease-settle); }
+::view-transition-image-pair(.morph) { isolation: auto; }
+::view-transition-old(.morph), ::view-transition-new(.morph) { mix-blend-mode: normal; height: 100%; object-fit: contain; }
+::view-transition-old(root) { animation: 150ms ease-out both vt-fade-out; }
+::view-transition-new(root) { animation: 250ms ease-out 60ms both vt-fade-in; }
+@keyframes vt-fade-out { to { opacity: 0; } }
+@keyframes vt-fade-in { from { opacity: 0; transform: translateY(8px); } }
+
+/* Reduced motion: every move becomes a cut or a short dissolve, loops stop (Script 0.3 rule 4). */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 1ms !important; animation-iteration-count: 1 !important; transition-duration: 1ms !important; }
+  .steam { animation: none; opacity: 0.45; }
+  ::view-transition-group(*), ::view-transition-old(*), ::view-transition-new(*) { animation: none !important; }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Hide scrollbars on horizontal shelves, keep them scrollable */
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+/* ------------------------------------------------------------------
+   Homepage film (scroll-driven, components/film). Layers share one box so the
+   camera origin (our window at 50% / 56%) lines up across every depth plane.
+------------------------------------------------------------------- */
+.film-sky {
+  background: linear-gradient(to bottom, #11162e 0%, #1f2245 34%, #3d3963 58%, #8f6273 76%, #d98c6c 90%, #eea877 100%);
+  transform-origin: 50% 45%;
 }
+.film-layer {
+  position: absolute; left: 50%; bottom: 0;
+  width: max(100vw, 165svh); aspect-ratio: 1.6;
+  margin-left: calc(max(100vw, 165svh) / -2);
+  transform-origin: 50% 56%;
+  will-change: transform;
+}
+.film-near { transform-origin: 50% 100%; }
+.film-glow { opacity: 0.55; }
+
+@keyframes twinkle { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+.film-star { animation: twinkle 3.2s ease-in-out calc(var(--d, 0) * 1s) 4 both; }
+
+@keyframes smoke-drift { 0% { transform: translate(0, 0); opacity: 0.25; } 100% { transform: translate(-30px, -60px); opacity: 0; } }
+.film-smoke { animation: smoke-drift 6s ease-out 4; transform-box: fill-box; }
+
+@keyframes cue { 0% { transform: translateY(-100%); } 100% { transform: translateY(200%); } }
+.cue-line { animation: cue 1.8s cubic-bezier(.65,0,.35,1) infinite; }
+
+@keyframes pulse-ring { 0% { transform: scale(0.6); opacity: 0.45; } 100% { transform: scale(2.2); opacity: 0; } }
+.eu-pulse { transform-box: fill-box; transform-origin: center; animation: pulse-ring 2.4s ease-out 4; }
+.eu-route { stroke-dasharray: 1; stroke-dashoffset: 0; }
+
+/* fine film grain, the "finish" on dark scenes */
+.grain {
+  position: absolute; inset: 0; pointer-events: none; opacity: 0.09; mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+
+.skip-shop[data-show="false"] { opacity: 0; transform: translateY(12px); pointer-events: none; }
+
+/* Header night mode over the dark scenes of the film */
+.site-header { transition: background-color 300ms, border-color 300ms, color 300ms; }
+html[data-header="night"] .site-header { background: rgba(17, 15, 30, 0.28); border-color: rgba(255, 255, 255, 0.08); color: #faf6ef; }
+html[data-header="night"] .site-header .hdr-pill { background: rgba(255, 255, 255, 0.1); border-color: rgba(255, 255, 255, 0.2); color: rgba(250, 246, 239, 0.85); }
+html[data-header="night"] .site-header .hdr-link { color: rgba(250, 246, 239, 0.8); }
+html[data-header="night"] .site-header .hdr-link:hover { background: rgba(255, 255, 255, 0.1); color: #faf6ef; }
+html[data-header="night"] .site-header .hdr-basket { background: #faf6ef; color: #1f1a17; }
+
+/* Phones in portrait: a wider establishing shot so the city reads before the push-in. */
+@media (max-width: 767px) and (orientation: portrait) {
+  .film-layer { width: max(100vw, 118svh); margin-left: calc(max(100vw, 118svh) / -2); }
+}
+/* Shelf packs: sized by screen height, but never wider in total than the shelf board (--pack-fit, in board widths). */
+.film-shelf { container-type: inline-size; }
+.film-kitchen { --pack-scale: 0.62; --pack-fit: 1.2cqw; }
+@media (min-width: 768px) { .film-kitchen { --pack-scale: 0.85; --pack-fit: 0.56cqw; } }
+@media (min-width: 1536px) { .film-kitchen { --pack-fit: 0.52cqw; } }
+.film-k-pack { --pack-unit: min(calc(1cqh * var(--pack-scale)), var(--pack-fit)); }
+
+/* S12: the pay button's thin indeterminate progress line (never a spinner) */
+@keyframes pay-progress { 0% { transform: translateX(-100%) scaleX(0.4); } 50% { transform: translateX(10%) scaleX(0.6); } 100% { transform: translateX(110%) scaleX(0.4); } }
+.pay-progress { transform-origin: left; animation: pay-progress 1.2s ease-in-out infinite; }
+
+/* Phones: the route map is cropped to Poland/Germany (in markup); labels grow so they stay readable. */
+@media (max-width: 767px) { .eu-map text { font-size: 28px; } }

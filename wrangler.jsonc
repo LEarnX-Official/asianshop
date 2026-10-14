@@ -1,0 +1,20 @@
+{
+  // Cloudflare Worker for the AsianShop prototype, built by the OpenNext adapter (npm run deploy / Workers Builds).
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "asianshop",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      // lets the worker call itself (OpenNext uses it for internal requests)
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "asianshop"
+    }
+  ],
+  "observability": { "enabled": true }
+}

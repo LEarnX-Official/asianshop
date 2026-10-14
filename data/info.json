@@ -1,0 +1,2455 @@
+{
+ "pl": {
+  "delivery": {
+   "title": "Metody dostawy i realizacja zamówienia",
+   "source": "https://asianshop.pl/pl/i/Metody-dostawy-i-realizacja-zamowienia/4",
+   "blocks": [
+    {
+     "h": "Metody dostawy"
+    },
+    {
+     "p": "Oferujemy następujące metody dostawy zamówień:"
+    },
+    {
+     "p": "Kurier (DPD, InPost, DHL) – dostawa na wskazany adres w Polsce zazwyczaj w ciągu 1–2 dni roboczych od momentu nadania."
+    },
+    {
+     "p": "Paczkomaty InPost – szybka i wygodna dostawa do wybranego paczkomatu. Czas realizacji to zwykle 1–2 dni robocze."
+    },
+    {
+     "p": "Odbiór osobisty – możliwy po wcześniejszym potwierdzeniu przygotowania zamówienia."
+    },
+    {
+     "p": "Dokładne koszty i opcje dostawy prezentowane są w koszyku zakupowym przed finalizacją zamówienia. Koszt dostawy zależy od wybranej metody i wartości zamówienia."
+    },
+    {
+     "h": "Realizacja zamówienia"
+    },
+    {
+     "p": "W przypadku wyboru przez Klienta sposobu płatności przelewem, płatności elektronicznych lub kartą płatniczą, realizacja zamówienia zostanie rozpoczęta od dnia uznania rachunku bankowego Sprzedawcy lub po otrzymaniu przez Sklep Internetowy potwierdzenia poprawnego wykonania płatności przez Podmiot realizujący płatność – w zależności od systemu płatniczego."
+    },
+    {
+     "p": "Zamówienia złożone i opłacone w dni robocze do godziny 12:00 są zazwyczaj realizowane tego samego dnia lub w następnym dniu roboczym. W przypadku dużej liczby zamówień lub okresów promocyjnych czas realizacji może się nieznacznie wydłużyć."
+    }
+   ]
+  },
+  "payments": {
+   "title": "Metody płatności",
+   "source": "https://asianshop.pl/pl/i/Metody-platnosci/10",
+   "blocks": [
+    {
+     "h": "Regulamin Płatności"
+    },
+    {
+     "h": "1. Postanowienia ogólne"
+    },
+    {
+     "p": "Niniejszy regulamin określa zasady dokonywania płatności za zamówienia składane w sklepie internetowym działającym pod adresem: asianshop.pl zwanej dalej \"Asian Shop\"."
+    },
+    {
+     "p": "Właścicielem Sklepu jest:"
+    },
+    {
+     "h": "Aditya Sharma Asian Shop"
+    },
+    {
+     "p": "Adres siedziby: ul. Krakowska 62, 32-083, Balice"
+    },
+    {
+     "p": "NIP: 8961651748"
+    },
+    {
+     "p": "REGON: 541640628"
+    },
+    {
+     "h": "E-mail kontaktowy: biuro@asianshop.pl"
+    },
+    {
+     "h": "2. Dostępne metody płatności"
+    },
+    {
+     "p": "Klient może dokonać płatności za zamówienie za pomocą następujących metod:"
+    },
+    {
+     "h": "Przelew tradycyjny na rachunek bankowy Sprzedawcy"
+    },
+    {
+     "h": "Szybkie płatności online (PayU, Przelewy24)"
+    },
+    {
+     "h": "Płatność kartą kredytową lub debetową (Visa, Mastercard)"
+    },
+    {
+     "h": "Płatność za pobraniem (gotówką przy odbiorze przesyłki)"
+    },
+    {
+     "h": "3. Terminy płatności"
+    },
+    {
+     "p": "W przypadku wyboru przelewu tradycyjnego, płatność powinna zostać dokonana w terminie 3 dni roboczych od daty złożenia zamówienia. Dane do przelewu otrzymasz również za pośrednictwem poczty elektronicznej po złożeniu zamówienia. Po upływie tego terminu zamówienie może zostać anulowane."
+    },
+    {
+     "h": "4. Potwierdzenie płatności"
+    },
+    {
+     "p": "Po zaksięgowaniu płatności Klient otrzyma e-mailowe potwierdzenie realizacji płatności."
+    },
+    {
+     "p": "Do każdego zamówienia wystawiany jest paragon fiskalny lub na życzenie – faktura VAT."
+    },
+    {
+     "h": "5. Zwroty płatności"
+    },
+    {
+     "p": "W przypadku anulowania zamówienia lub zwrotu towaru (odstąpienia od umowy), płatność zostanie zwrócona Klientowi w terminie do 14 dni od dnia przyjęcia zwrotu przez Sprzedawcę."
+    },
+    {
+     "p": "Zwrot środków realizowany jest tą samą metodą płatności, jakiej użył Klient przy zakupie, chyba że uzgodniono inaczej, w każdym przypadku Kupujący nie poniesie żadnych opłat w związku z tym zwrotem."
+    },
+    {
+     "h": "6. Bezpieczeństwo transakcji"
+    },
+    {
+     "p": "Wszystkie transakcje realizowane są za pośrednictwem bezpiecznych i szyfrowanych połączeń SSL."
+    },
+    {
+     "p": "Sklep nie przechowuje danych kart płatniczych Klientów."
+    }
+   ]
+  },
+  "returns": {
+   "title": "Zwroty i reklamacje",
+   "source": "https://asianshop.pl/pl/i/Zwroty-i-reklamacje/7",
+   "blocks": [
+    {
+     "h": "Gwarancja i zgodność towaru z umową"
+    },
+    {
+     "p": "Towary oferowane w naszym sklepie są nowe i wolne od wad. Sprzedawca ponosi odpowiedzialność wobec Konsumenta lub Przedsiębiorcy na prawach konsumenta za zgodność towaru z umową zgodnie z przepisami ustawy o prawach konsumenta. Odpowiedzialność ta obowiązuje przez okres 2 lat od daty dostarczenia towaru. W przypadku stwierdzenia niezgodności towaru z umową, Klient ma prawo złożyć reklamację."
+    },
+    {
+     "p": "Reklamacje należy składać w formie pisemnej na adres e-mail: biuro@asianshop.pl lub listownie na adres:"
+    },
+    {
+     "p": "Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083, Balice"
+    },
+    {
+     "p": "Towar reklamowany należy odesłać na powyższy adres wraz z opisem niezgodności. Reklamacja zostanie rozpatrzona w terminie do 14 dni od momentu jej zgłoszenia. Klient zostanie poinformowany o wyniku reklamacji drogą mailową lub pisemną."
+    },
+    {
+     "p": "Jeśli na dany produkt została udzielona gwarancja producenta lub dystrybutora, informacje na jej temat (w tym czas trwania i warunki) znajdują się w dokumentacji dołączonej do produktu lub na stronie produktu w sklepie. Gwarancja nie wyłącza ani nie ogranicza uprawnień wynikających z odpowiedzialności sprzedawcy za zgodność towaru z umową."
+    }
+   ]
+  },
+  "terms": {
+   "title": "Regulamin",
+   "source": "https://asianshop.pl/pl/i/Regulamin/3",
+   "blocks": [
+    {
+     "h": "Regulamin sklepu internetowego Asian Shop"
+    },
+    {
+     "h": "I. Informacje ogólne"
+    },
+    {
+     "p": "Niniejszy regulamin określa zasady funkcjonowania sklepu internetowego Asian Shop, dostępnego pod adresem https://asianshop.pl , prowadzonego przez firmę:"
+    },
+    {
+     "p": "Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice, NIP: 8961651748, REGON: 541640628."
+    },
+    {
+     "p": "Kontakt: biuro@asianshop.pl, tel. +48 609 993 637."
+    },
+    {
+     "p": "Regulamin jest dostępny nieprzerwanie na stronie internetowej sklepu i może być pobrany, zapisany lub wydrukowany przez Klienta w dowolnym czasie."
+    },
+    {
+     "h": "II. Definicje"
+    },
+    {
+     "p": "Sklep – sklep internetowy działający pod adresem https://asianshop.pl ."
+    },
+    {
+     "p": "2. Klient – osoba fizyczna lub prawna dokonująca zakupów w Sklepie."
+    },
+    {
+     "p": "3. Konsument – osoba fizyczna dokonująca zakupu niezwiązanego bezpośrednio z jej działalnością gospodarczą."
+    },
+    {
+     "p": "4. Sprzedawca – Aditya Sharma Asian Shop."
+    },
+    {
+     "p": "5. Regulamin – niniejszy dokument określający zasady korzystania ze sklepu."
+    },
+    {
+     "h": "III. Warunki techniczne"
+    },
+    {
+     "p": "Do korzystania ze sklepu internetowego niezbędne są:"
+    },
+    {
+     "p": "- urządzenie z dostępem do Internetu,"
+    },
+    {
+     "p": "- przeglądarka internetowa wspierająca HTML5, JavaScript i cookies,"
+    },
+    {
+     "h": "IV. Rejestracja i konto użytkownika"
+    },
+    {
+     "p": "Rejestracja konta w sklepie jest dobrowolna i bezpłatna. Klient może korzystać z funkcjonalności sklepu bez rejestracji. Klient ponosi odpowiedzialność za zachowanie poufności loginu i hasła do konta."
+    },
+    {
+     "h": "V. Składanie i realizacja zamówień"
+    },
+    {
+     "p": "Zamówienia można składać 24/7 poprzez stronę sklepu. Realizacja zamówienia rozpoczyna się:"
+    },
+    {
+     "p": "- w przypadku płatności online – po potwierdzeniu przez operatora płatności,"
+    },
+    {
+     "p": "- w przypadku przelewu – po zaksięgowaniu wpłaty."
+    },
+    {
+     "p": "Zamówienia złożone i opłacone do godz. 12:00 w dni robocze są zwykle realizowane tego samego lub kolejnego dnia roboczego."
+    },
+    {
+     "h": "VI. Metody płatności"
+    },
+    {
+     "p": "Podmiotem świadczącym obsługę płatności online w zakresie płatności szybkimi przelewami jest PayPro S.A. (Przelewy24)"
+    },
+    {
+     "p": "Klient ma do wyboru następujące metody płatności:"
+    },
+    {
+     "p": "- Przelew tradycyjny na rachunek bankowy,"
+    },
+    {
+     "p": "- Szybkie płatności online (PayU, Przelewy24),"
+    },
+    {
+     "p": "- Karta płatnicza (Visa, Mastercard),"
+    },
+    {
+     "p": "- Płatność za pobraniem (gotówką przy odbiorze)."
+    },
+    {
+     "p": "W przypadku przelewu tradycyjnego, płatność należy wykonać w ciągu 3 dni roboczych od złożenia zamówienia. Po tym czasie zamówienie może zostać anulowane."
+    },
+    {
+     "h": "VII. Zwroty płatności"
+    },
+    {
+     "p": "W przypadku anulowania zamówienia lub odstąpienia od umowy, Sprzedawca zwróci płatność w ciągu 14 dni tym samym sposobem, jakiego użył Klient (np. na rachunek przypisany do karty płatniczej), chyba że uzgodniono inaczej. Klient nie ponosi opłat za dokonanie zwrotu."
+    },
+    {
+     "h": "VIII. Metody dostawy"
+    },
+    {
+     "p": "Oferujemy następujące metody dostawy:"
+    },
+    {
+     "p": "- Kurier DPD, InPost, DHL (1–2 dni robocze),"
+    },
+    {
+     "p": "- Paczkomaty InPost (1–2 dni robocze),"
+    },
+    {
+     "p": "- Odbiór osobisty po wcześniejszym umówieniu (Balice, Krakowska 62)."
+    },
+    {
+     "p": "Koszty i dostępne opcje dostawy są prezentowane w koszyku przed finalizacją zamówienia."
+    },
+    {
+     "h": "IX. Prawo odstąpienia od umowy"
+    },
+    {
+     "p": "Konsument ma prawo odstąpić od umowy w terminie 14 dni od otrzymania towaru. W celu skorzystania z prawa odstąpienia należy przesłać oświadczenie drogą mailową na adres: biuro@asianshop.pl."
+    },
+    {
+     "p": "Towar należy odesłać na adres: Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice, nie później niż 14 dni od daty odstąpienia."
+    },
+    {
+     "h": "X. Reklamacje i zgodność towaru z umową"
+    },
+    {
+     "p": "Sprzedawca odpowiada za zgodność towaru z umową przez 2 lata od dnia dostawy. W przypadku niezgodności, Klient może żądać:"
+    },
+    {
+     "p": "- naprawy lub wymiany towaru,"
+    },
+    {
+     "p": "- obniżenia ceny,"
+    },
+    {
+     "p": "- odstąpienia od umowy (w przypadku istotnej niezgodności)."
+    },
+    {
+     "p": "Reklamacje należy zgłaszać:"
+    },
+    {
+     "p": "- e-mail: biuro@asianshop.pl"
+    },
+    {
+     "p": "- lub pisemnie: Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice"
+    },
+    {
+     "p": "Sprzedawca rozpatruje reklamację w terminie do 14 dni kalendarzowych."
+    },
+    {
+     "h": "XI. Ochrona danych osobowych"
+    },
+    {
+     "p": "Dane osobowe przetwarzane są zgodnie z Polityką Prywatności i RODO. Szczegóły znajdują się na stronie sklepu w zakładce „Polityka Prywatności”."
+    },
+    {
+     "h": "XII. Postanowienia końcowe"
+    },
+    {
+     "p": "Regulamin może być zmieniony przez Sprzedawcę w dowolnym czasie. Zmiany wchodzą w życie w terminie wskazanym przez Sprzedawcę i będą komunikowane Użytkownikom poprzez stronę sklepu."
+    },
+    {
+     "p": "W sprawach nieuregulowanych niniejszym Regulaminem mają zastosowanie przepisy prawa polskiego."
+    },
+    {
+     "h": "XIII.Polityka promocji i rabatów"
+    },
+    {
+     "p": "- Do każdego produktu można zastosować tylko jedną promocję lub rabat na raz."
+    },
+    {
+     "p": "- Nie można łączyć wielu promocji ani rabatów."
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Polityka prywatności",
+   "source": "https://asianshop.pl/pl/i/Polityka-prywatnosci/11",
+   "blocks": [
+    {
+     "h": "Polityka Prywatności"
+    },
+    {
+     "p": "Poniższa Polityka Prywatności określa zasady zapisywania i uzyskiwania dostępu do danych na Urządzeniach Użytkowników korzystających z Serwisu do celów świadczenia usług drogą elektroniczną przez Administratora oraz zasady gromadzenia i przetwarzania danych osobowych Użytkowników , które zostały podane przez nich osobiście i dobrowolnie za pośrednictwem narzędzi dostępnych w Serwisie."
+    },
+    {
+     "p": "Poniższa Polityka Prywatności jest integralną częścią Regulaminu Serwisu , który określa zasady, prawa i obowiązki Użytkowników korzystających z Serwisu."
+    },
+    {
+     "h": "§1 Definicje"
+    },
+    {
+     "p": "Serwis - serwis internetowy \"Asianshop.pl\" działający pod adresem https://asianshop.pl"
+    },
+    {
+     "p": "Serwis zewnętrzny - serwisy internetowe partnerów, usługodawców lub usługobiorców współpracujących z Administratorem"
+    },
+    {
+     "p": "Administrator Serwisu / Danych - Administratorem Serwisu oraz Administratorem Danych (dalej Administrator) jest firma \"Aditya Sharma Asian Shop\", prowadząca działalność pod adresem: Krakowska 62, 32-083, Balice, o nadanym numerze identyfikacji podatkowej (NIP): 8961651748, (REGON): 541640628, Tel: 609 993 637, email: biuro@asianshop.pl, świadcząca usługi drogą elektroniczną za pośrednictwem Serwisu"
+    },
+    {
+     "p": "Użytkownik - osoba fizyczna, dla której Administrator świadczy usługi drogą elektroniczną za pośrednictwem Serwisu."
+    },
+    {
+     "p": "Urządzenie - elektroniczne urządzenie wraz z oprogramowaniem, za pośrednictwem którego Użytkownik uzyskuje dostęp do Serwisu"
+    },
+    {
+     "p": "Cookies (ciasteczka) - dane tekstowe gromadzone w formie plików zamieszczanych na Urządzeniu Użytkownika"
+    },
+    {
+     "p": "RODO - Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)"
+    },
+    {
+     "p": "Dane osobowe - oznaczają informacje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej („osobie, której dane dotyczą”); możliwa do zidentyfikowania osoba fizyczna to osoba, którą można bezpośrednio lub pośrednio zidentyfikować, w szczególności na podstawie identyfikatora takiego jak imię i nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub jeden bądź kilka szczególnych czynników określających fizyczną, fizjologiczną, genetyczną, psychiczną, ekonomiczną, kulturową lub społeczną tożsamość osoby fizycznej"
+    },
+    {
+     "p": "Przetwarzanie - oznacza operację lub zestaw operacji wykonywanych na danych osobowych lub zestawach danych osobowych w sposób zautomatyzowany lub niezautomatyzowany, taką jak zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptowanie lub modyfikowanie, pobieranie, przeglądanie, wykorzystywanie, ujawnianie poprzez przesłanie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywanie lub łączenie, ograniczanie, usuwanie lub niszczenie;"
+    },
+    {
+     "p": "Ograniczenie przetwarzania - oznacza oznaczenie przechowywanych danych osobowych w celu ograniczenia ich przyszłego przetwarzania"
+    },
+    {
+     "p": "Profilowanie - oznacza dowolną formę zautomatyzowanego przetwarzania danych osobowych, które polega na wykorzystaniu danych osobowych do oceny niektórych czynników osobowych osoby fizycznej, w szczególności do analizy lub prognozy aspektów dotyczących efektów pracy tej osoby fizycznej, jej sytuacji ekonomicznej, zdrowia, osobistych preferencji, zainteresowań, wiarygodności, zachowania, lokalizacji lub przemieszczania się"
+    },
+    {
+     "p": "Zgoda - zgoda osoby, której dane dotyczą oznacza dobrowolne, konkretne, świadome i jednoznaczne okazanie woli, którym osoba, której dane dotyczą, w formie oświadczenia lub wyraźnego działania potwierdzającego, przyzwala na przetwarzanie dotyczących jej danych osobowych"
+    },
+    {
+     "p": "Naruszenie ochrony danych osobowych - oznacza naruszenie bezpieczeństwa prowadzące do przypadkowego lub niezgodnego z prawem zniszczenia, utracenia, zmodyfikowania, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarzanych"
+    },
+    {
+     "p": "Pseudonimizacja - oznacza przetworzenie danych osobowych w taki sposób, by nie można ich było już przypisać konkretnej osobie, której dane dotyczą, bez użycia dodatkowych informacji, pod warunkiem że takie dodatkowe informacje są przechowywane osobno i są objęte środkami technicznymi i organizacyjnymi uniemożliwiającymi ich przypisanie zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej"
+    },
+    {
+     "p": "Anonimizacja - Anonimizacja danych to nieodwracalny proces operacji na danych, który niszczy / nadpisuje \"dane osobowe\" uniemożliwiając identyfikację, lub powiązanie danego rekordu z konkretnym użytkownikiem lub osobą fizyczną."
+    },
+    {
+     "h": "§2 Inspektor Ochrony Danych"
+    },
+    {
+     "p": "Na podstawie Art. 37 RODO, Administrator nie powołał Inspektora Ochrony Danych."
+    },
+    {
+     "p": "W sprawach dotyczących przetwarzania danych, w tym danych osobowych, należy kontaktować się bezpośrednio z Administratorem."
+    },
+    {
+     "h": "§3 Rodzaje Plików Cookies"
+    },
+    {
+     "p": "Cookies wewnętrzne - pliki zamieszczane i odczytywane z Urządzenia Użytkownika przez system teleinformatyczny Serwisu"
+    },
+    {
+     "p": "Cookies zewnętrzne - pliki zamieszczane i odczytywane z Urządzenia Użytkownika przez systemy teleinformatyczne Serwisów zewnętrznych. Skrypty Serwisów zewnętrznych, które mogą umieszczać pliki Cookies na Urządzeniach Użytkownika zostały świadomie umieszczone w Serwisie poprzez skrypty i usługi udostępnione i zainstalowane w Serwisie"
+    },
+    {
+     "p": "Cookies sesyjne - pliki zamieszczane i odczytywane z Urządzenia Użytkownika przez Serwis podczas jednej sesji danego Urządzenia. Po zakończeniu sesji pliki są usuwane z Urządzenia Użytkownika."
+    },
+    {
+     "p": "Cookies trwałe - pliki zamieszczane i odczytywane z Urządzenia Użytkownika przez Serwis do momentu ich ręcznego usunięcia. Pliki nie są usuwane automatycznie po zakończeniu sesji Urządzenia chyba że konfiguracja Urządzenia Użytkownika jest ustawiona na tryb usuwanie plików Cookie po zakończeniu sesji Urządzenia."
+    },
+    {
+     "h": "§4 Bezpieczeństwo składowania danych"
+    },
+    {
+     "p": "Mechanizmy składowania i odczytu plików Cookie - Mechanizmy składowania, odczytu i wymiany danych pomiędzy Plikami Cookies zapisywanymi na Urządzeniu Użytkownika a Serwisem są realizowane poprzez wbudowane mechanizmy przeglądarek internetowych i nie pozwalają na pobieranie innych danych z Urządzenia Użytkownika lub danych innych witryn internetowych, które odwiedzał Użytkownik, w tym danych osobowych ani informacji poufnych. Przeniesienie na Urządzenie Użytkownika wirusów, koni trojańskich oraz innych robaków jest także praktycznie niemożliwe."
+    },
+    {
+     "p": "Cookie wewnętrzne - zastosowane przez Administratora pliki Cookie są bezpieczne dla Urządzeń Użytkowników i nie zawierają skryptów, treści lub informacji mogących zagrażać bezpieczeństwu danych osobowych lub bezpieczeństwu Urządzenia z którego korzysta Użytkownik."
+    },
+    {
+     "p": "Cookie zewnętrzne - Administrator dokonuje wszelkich możliwych działań w celu weryfikacji i doboru partnerów serwisu w kontekście bezpieczeństwa Użytkowników. Administrator do współpracy dobiera znanych, dużych partnerów o globalnym zaufaniu społecznym. Nie posiada on jednak pełnej kontroli nad zawartością plików Cookie pochodzących od zewnętrznych partnerów. Za bezpieczeństwo plików Cookie, ich zawartość oraz zgodne z licencją wykorzystanie przez zainstalowane w serwisie Skrypty, pochodzących z Serwisów zewnętrznych, Administrator nie ponosi odpowiedzialności na tyle na ile pozwala na to prawo. Lista partnerów zamieszczona jest w dalszej części Polityki Prywatności."
+    },
+    {
+     "h": "Kontrola plików Cookie"
+    },
+    {
+     "p": "Użytkownik może w dowolnym momencie, samodzielnie zmienić ustawienia dotyczące zapisywania, usuwania oraz dostępu do danych zapisanych plików Cookies przez każdą witrynę internetową"
+    },
+    {
+     "p": "Informacje o sposobie wyłączenia plików Cookie w najpopularniejszych przeglądarkach komputerowych dostępne są na stronie: jak wyłączyć cookie lub u jednego ze wskazanych dostawców:"
+    },
+    {
+     "h": "Zarządzanie plikami cookies w przeglądarce Chrome"
+    },
+    {
+     "h": "Zarządzanie plikami cookies w przeglądarce Opera"
+    },
+    {
+     "h": "Zarządzanie plikami cookies w przeglądarce FireFox"
+    },
+    {
+     "h": "Zarządzanie plikami cookies w przeglądarce Edge"
+    },
+    {
+     "h": "Zarządzanie plikami cookies w przeglądarce Safari"
+    },
+    {
+     "h": "Zarządzanie plikami cookies w przeglądarce Internet Explorer 11"
+    },
+    {
+     "p": "Użytkownik może w dowolnym momencie usunąć wszelkie zapisane do tej pory pliki Cookie korzystając z narzędzi Urządzenia Użytkownika, za pośrednictwem którego Użytkownik korzysta z usług Serwisu."
+    },
+    {
+     "p": "Zagrożenia po stronie Użytkownika - Administrator stosuje wszelkie możliwe środki techniczne w celu zapewnienia bezpieczeństwa danych umieszczanych w plikach Cookie. Należy jednak zwrócić uwagę, że zapewnienie bezpieczeństwa tych danych zależy od obu stron w tym działalności Użytkownika. Administrator nie bierze odpowiedzialności za przechwycenie tych danych, podszycie się pod sesję Użytkownika lub ich usunięcie, na skutek świadomej lub nieświadomej działalność Użytkownika, wirusów, koni trojańskich i innego oprogramowania szpiegującego, którymi może jest lub było zainfekowane Urządzenie Użytkownika. Użytkownicy w celu zabezpieczenia się przed tymi zagrożeniami powinni stosować się do zasad korzystania z sieci internet ."
+    },
+    {
+     "p": "Przechowywanie danych osobowych - Administrator zapewnia, że dokonuje wszelkich starań, by przetwarzane dane osobowe wprowadzone dobrowolnie przez Użytkowników były bezpieczne, dostęp do nich był ograniczony i realizowany zgodnie z ich przeznaczeniem i celami przetwarzania. Administrator zapewnia także, że dokonuje wszelkich starań w celu zabezpieczenia posiadanych danych przed ich utratą, poprzez stosowanie odpowiednich zabezpieczeń fizycznych jak i organizacyjnych."
+    },
+    {
+     "p": "Przechowywanie haseł - Administrator oświadcza, że hasła przechowywane są w zaszyfrowanej postaci, używając najnowszych standardów i wytycznych w tym zakresie. Deszyfracja podawanych w Serwisie haseł dostępu do konta jest praktycznie niemożliwa."
+    },
+    {
+     "h": "§5 Cele do których wykorzystywane są pliki Cookie"
+    },
+    {
+     "h": "Usprawnienie i ułatwienie dostępu do Serwisu"
+    },
+    {
+     "h": "Personalizacja Serwisu dla Użytkowników"
+    },
+    {
+     "h": "Umożliwienie Logowania do serwisu"
+    },
+    {
+     "h": "Marketing, Remarketing w serwisach zewnętrznych"
+    },
+    {
+     "h": "Usługi serwowania reklam"
+    },
+    {
+     "h": "Usługi afiliacyjne"
+    },
+    {
+     "p": "Prowadzenie statystyk (użytkowników, ilości odwiedzin, rodzajów urządzeń, łącze itp.)"
+    },
+    {
+     "h": "Serwowanie usług multimedialnych"
+    },
+    {
+     "h": "Świadczenie usług społecznościowych"
+    },
+    {
+     "h": "§6 Cele przetwarzania danych osobowych"
+    },
+    {
+     "p": "Dane osobowe dobrowolnie podane przez Użytkowników są przetwarzane w jednym z następujących celów:"
+    },
+    {
+     "p": "Realizacji usług elektronicznych:"
+    },
+    {
+     "p": "Usługi rejestracji i utrzymania konta Użytkownika w Serwisie i funkcjonalności z nim związanych"
+    },
+    {
+     "h": "Usługi Newslettera (w tym przesyłania za zgodą treści reklamowych)"
+    },
+    {
+     "p": "Usługi komentowania / polubienia wpisów w Serwisie bez konieczności rejestrowania się"
+    },
+    {
+     "p": "Usługi udostępniania informacji o treści umieszczonych w Serwisie w serwisach społecznościowych lub innych witrynach."
+    },
+    {
+     "p": "Komunikacji Administratora z Użytkownikami w sprawach związanych z Serwisem oraz ochrony danych"
+    },
+    {
+     "h": "Zapewnienia prawnie uzasadnionego interesu Administratora"
+    },
+    {
+     "p": "Dane o Użytkownikach gromadzone anonimowo i automatycznie są przetwarzane w jednym z następujących celów:"
+    },
+    {
+     "h": "Prowadzenie statystyk"
+    },
+    {
+     "h": "Remarketing"
+    },
+    {
+     "h": "Serwowanie reklam dostosowanych do preferencji Użytkowników"
+    },
+    {
+     "h": "Obsługi programów afiliacyjnych"
+    },
+    {
+     "h": "Zapewnienia prawnie uzasadnionego interesu Administratora"
+    },
+    {
+     "h": "§7 Pliki Cookies Serwisów zewnętrznych"
+    },
+    {
+     "p": "Administrator w Serwisie wykorzystuje skrypty javascript i komponenty webowe partnerów, którzy mogą umieszczać własne pliki cookies na Urządzeniu Użytkownika. Pamiętaj, że w ustawieniach swojej przeglądarki możesz sam decydować o dozwolonych plikach cookies jakie mogą być używane przez poszczególne witryny internetowe. Poniżej znajduje się lista partnerów lub ich usług zaimplementowanych w Serwisie, mogących umieszczać pliki cookies:"
+    },
+    {
+     "p": "Usługi społecznościowe / łączone:"
+    },
+    {
+     "h": "(Rejestracja, Logowanie, udostępnianie treści, komunikacja, itp.)"
+    },
+    {
+     "h": "Facebook"
+    },
+    {
+     "h": "Google+"
+    },
+    {
+     "p": "Usługi udostępniania treści:"
+    },
+    {
+     "h": "WhatsApp"
+    },
+    {
+     "h": "Instagram"
+    },
+    {
+     "p": "Usługi Newslettera:"
+    },
+    {
+     "h": "MailChimp"
+    },
+    {
+     "p": "Usługi serwowania reklam oraz sieci afiliacyjne:"
+    },
+    {
+     "h": "Google Adsense"
+    },
+    {
+     "p": "Prowadzenie statystyk:"
+    },
+    {
+     "h": "Google Analytics"
+    },
+    {
+     "p": "Usługi świadczone przez podmioty trzecie są poza kontrolą Administratora. Podmioty te mogą w każdej chwili zmienić swoje warunki świadczenia usług, polityki prywatności, cel przetwarzania danych oraz sposów wykorzystywania plików cookie."
+    },
+    {
+     "h": "§8 Rodzaje gromadzonych danych"
+    },
+    {
+     "p": "Serwis gromadzi dane o Użytkownikach. Cześć danych jest gromadzona automatycznie i anonimowo, a część danych to dane osobowe podane dobrowolnie przez Użytkowników w trakcie zapisywania się do poszczególnych usług oferowanych przez Serwis."
+    },
+    {
+     "p": "Anonimowe dane gromadzone automatycznie:"
+    },
+    {
+     "h": "Adres IP"
+    },
+    {
+     "h": "Typ przeglądarki"
+    },
+    {
+     "h": "Rozdzielczość ekranu"
+    },
+    {
+     "h": "Przybliżona lokalizacja"
+    },
+    {
+     "h": "Otwierane podstrony serwisu"
+    },
+    {
+     "h": "Czas spędzony na odpowiedniej podstronie serwisu"
+    },
+    {
+     "h": "Rodzaj systemu operacyjnego"
+    },
+    {
+     "h": "Adres poprzedniej podstrony"
+    },
+    {
+     "h": "Adres strony odsyłającej"
+    },
+    {
+     "h": "Język przeglądarki"
+    },
+    {
+     "h": "Prędkość łącza internetowego"
+    },
+    {
+     "h": "Dostawca usług internetowych"
+    },
+    {
+     "p": "Dane gromadzone podczas rejestracji:"
+    },
+    {
+     "h": "Imię / nazwisko / pseudonim"
+    },
+    {
+     "h": "Login"
+    },
+    {
+     "h": "Adres e-mail"
+    },
+    {
+     "h": "Adres zamieszkania"
+    },
+    {
+     "h": "Numer telefonu"
+    },
+    {
+     "h": "Adres IP (zbierane automatycznie)"
+    },
+    {
+     "h": "Numer NIP"
+    },
+    {
+     "h": "Dane gromadzone podczas zapisu do usługi Newsletter"
+    },
+    {
+     "h": "Imię / nazwisko / pseudonim"
+    },
+    {
+     "h": "Adres e-mail"
+    },
+    {
+     "h": "Adres zamieszkania"
+    },
+    {
+     "h": "Płeć"
+    },
+    {
+     "h": "Data urodzenia / wiek"
+    },
+    {
+     "h": "Adres IP (zbierane automatycznie)"
+    },
+    {
+     "h": "Dane gromadzone podczas dodawania komentarza"
+    },
+    {
+     "h": "Imię i nazwisko / pseudonim"
+    },
+    {
+     "h": "Adres e-mail"
+    },
+    {
+     "h": "Adres www"
+    },
+    {
+     "h": "Adres IP (zbierane automatycznie)"
+    },
+    {
+     "p": "Część danych (bez danych identyfikujących) może być przechowywana w plikach cookies. Cześć danych (bez danych identyfikujących) może być przekazywana do dostawcy usług statystycznych."
+    },
+    {
+     "h": "§9 Dostęp do danych osobowych przez podmioty trzecie"
+    },
+    {
+     "p": "Co do zasady jedynym odbiorcą danych osobowych podawanych przez Użytkowników jest Administrator. Dane gromadzone w ramach świadczonych usług nie są przekazywane ani odsprzedawane podmiotom trzecim."
+    },
+    {
+     "p": "Dostęp do danych (najczęściej na podstawie Umowy powierzenia przetwarzania danych) mogą posiadać podmioty, odpowiedzialne za utrzymania infrastruktury i usług niezbędnych do prowadzenia serwisu tj.:"
+    },
+    {
+     "p": "Firmy hostingowe, świadczące usługi hostingu lub usług pokrewnych dla Administratora"
+    },
+    {
+     "h": "Firmy, za pośrednictwem których świadczona jest usługa Newslettera"
+    },
+    {
+     "p": "Firmy pośredniczące w płatnościach on-line za towaru lub usługi oferowane w ramach Serwisu (w przypadku dokonywania transakcji zakupu w Serwisie)"
+    },
+    {
+     "h": "Powierzenie przetwarzania danych osobowych - Newsletter"
+    },
+    {
+     "p": "Administrator w celu świadczenia usługi Newsletter, korzysta z usług podmiotu trzeciego - serwisu MailChimp , . Dane wprowadzone w formularzu zapisu do newslettera są przekazywane, przechowywane i przetwarzane w serwisie zewnętrznym tego usługodawcy."
+    },
+    {
+     "p": "Informujemy, że wskazany partner może modyfikować wskazaną politykę prywatności bez zgody Administratora."
+    },
+    {
+     "p": "Powierzenie przetwarzania danych osobowych - Usługi Hostingu, VPS lub Serwerów Dedykowanych"
+    },
+    {
+     "p": "Administrator w celu prowadzenia serwisu korzysta z usług zewnętrznego dostawcy hostingu, VPS lub Serwerów Dedykowanych - <arel=\"nofollow external\"=\"\" href=\" https://regulaminy.home.pl/Polityka-prywatnosci-home.pl.pdf \">home.pl . Wszelkie dane gromadzone i przetwarzane w serwisie są przechowywane i przetwarzane w infrastrukturze usługodawcy zlokalizowanej w Polsce. Istnieje możliwość dostępu do danych wskutek prac serwisowych realizowanych przez personel usługodawcy. Dostęp do tych danych reguluje umowa zawarta pomiędzy Administratorem a Usługodawcą."
+    },
+    {
+     "h": "Przetwarzanie danych w przypadku płatności on-line"
+    },
+    {
+     "p": "W przypadku realizacji płatności on-line, wszelkie dane dotyczące płatności przekazywane są bezpośrednio przez Użytkownika podmiotowi realizującemu płatność - <arel=\"nofollow external\"=\"\" href=\"\">Przelewy24. Wybrane dane niezbędne do realizacji transakcji są następnie przekazywane przez ten podmiot Administratorowi. Przekazanie danych reguluje umowa zawarta pomiędzy Administratorem a Usługodawcą."
+    },
+    {
+     "h": "§10 Sposób przetwarzania danych osobowych"
+    },
+    {
+     "p": "Dane osobowe podane dobrowolnie przez Użytkowników:"
+    },
+    {
+     "p": "Dane osobowe nie będą przekazywane poza Unię Europejską, chyba że zostały opublikowane na skutek indywidualnego działania Użytkownika (np. wprowadzenie komentarza lub wpisu), co sprawi, że dane będą dostępne dla każdej osoby odwiedzającej serwis."
+    },
+    {
+     "p": "Dane osobowe nie będą wykorzystywane do zautomatyzowanego podejmowania decyzji (profilowania)."
+    },
+    {
+     "p": "Dane osobowe nie będą odsprzedawane podmiotom trzecim."
+    },
+    {
+     "p": "Dane anonimowe (bez danych osobowych) gromadzone automatycznie:"
+    },
+    {
+     "p": "Dane anonimiwe (bez danych osobowych) będą przekazywane poza Unię Europejską."
+    },
+    {
+     "p": "Dane anonimiwe (bez danych osobowych) nie będą wykorzystywane do zautomatyzowanego podejmowania decyzji (profilowania)."
+    },
+    {
+     "p": "Dane anonimiwe (bez danych osobowych) nie będą odsprzedawane podmiotom trzecim."
+    },
+    {
+     "h": "§11 Podstawy prawne przetwarzania danych osobowych"
+    },
+    {
+     "p": "Serwis gromadzi i przetwarza dane Użytkowników na podstawie:"
+    },
+    {
+     "p": "Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)"
+    },
+    {
+     "h": "art. 6 ust. 1 lit. a"
+    },
+    {
+     "p": "osoba, której dane dotyczą wyraziła zgodę na przetwarzanie swoich danych osobowych w jednym lub większej liczbie określonych celów"
+    },
+    {
+     "h": "art. 6 ust. 1 lit. b"
+    },
+    {
+     "p": "przetwarzanie jest niezbędne do wykonania umowy, której stroną jest osoba, której dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą, przed zawarciem umowy"
+    },
+    {
+     "h": "art. 6 ust. 1 lit. f"
+    },
+    {
+     "p": "przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych interesów realizowanych przez administratora lub przez stronę trzecią"
+    },
+    {
+     "p": "Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz.U. 2018 poz. 1000)"
+    },
+    {
+     "p": "Ustawa z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz.U. 2004 nr 171 poz. 1800)"
+    },
+    {
+     "p": "Ustawa z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. 1994 Nr 24 poz. 83)"
+    },
+    {
+     "h": "§12 Okres przetwarzania danych osobowych"
+    },
+    {
+     "p": "Dane osobowe podane dobrowolnie przez Użytkowników:"
+    },
+    {
+     "p": "Co do zasady wskazane dane osobowe są przechowywane wyłącznie przez okres świadczenia Usługi w ramach Serwisu przez Administratora. Są one usuwane lub anonimizowane w okresie do 30 dni od chwili zakończenia świadczenia usług (np. usunięcie zarejestrowanego konta użytkownika, wypisanie z listy Newsletter, itp.)"
+    },
+    {
+     "p": "Wyjątek stanowi sytuacja, która wymaga zabezpieczenia prawnie uzasadnionych celów dalszego przetwarzania tych danych przez Administratora. W takiej sytuacji Administrator będzie przechowywał wskazane dane, od czasu żądania ich usunięcia przez Użytkownika, nie dłużej niż przez okres 3 lat w przypadku naruszenia lub podejrzenia naruszenia zapisów regulaminu serwisu przez Użytkownika"
+    },
+    {
+     "p": "Dane anonimowe (bez danych osobowych) gromadzone automatycznie:"
+    },
+    {
+     "p": "Anonimowe dane statystyczne, niestanowiące danych osobowych, są przechowywane przez Administratora w celu prowadzenia statystyk serwisu przez czas nieoznaczony"
+    },
+    {
+     "h": "§13 Prawa Użytkowników związane z przetwarzaniem danych osobowych"
+    },
+    {
+     "p": "Serwis gromadzi i przetwarza dane Użytkowników na podstawie:"
+    },
+    {
+     "h": "Prawo dostępu do danych osobowych"
+    },
+    {
+     "p": "Użytkownikom przysługuje prawo uzyskania dostępu do swoich danych osobowych, realizowane na żądanie złożone do Administratora"
+    },
+    {
+     "h": "Prawo do sprostowania danych osobowych"
+    },
+    {
+     "p": "Użytkownikom przysługuje prawo żądania od Administratora niezwłocznego sprostowania danych osobowych, które są nieprawidłowe lub / oraz uzupełnienia niekompletnych danych osobowych, realizowane na żądanie złożone do Administratora"
+    },
+    {
+     "h": "Prawo do usunięcia danych osobowych"
+    },
+    {
+     "p": "Użytkownikom przysługuje prawo żądania od Administratora niezwłocznego usunięcia danych osobowych, realizowane na żądanie złożone do Administratora W przypadku kont użytkowników, usunięcie danych polega na anonimizacji danych umożliwiających identyfikację Użytkownika. Administrator zastrzega sobie prawo wstrzymania realizacji żądania usunięcia danych w celu ochrony prawnie uzasadnionego interesu Administratora (np. w gdy Użytkownik dopuścił się naruszenia Regulaminu czy dane zostały pozyskane wskutek prowadzonej korespondencji)."
+    },
+    {
+     "p": "W przypadku usługi Newsletter, Użytkownik ma możliwość samodzielnego usunięcia swoich danych osobowych korzystając z odnośnika umieszczonego w każdej przesyłanej wiadomości e-mail."
+    },
+    {
+     "h": "Prawo do ograniczenia przetwarzania danych osobowych"
+    },
+    {
+     "p": "Użytkownikom przysługuje prawo ograniczenia przetwarzania danych osobowych w przypadkach wskazanych w art. 18 RODO, m.in. kwestionowania prawidłowość danych osobowych, realizowane na żądanie złożone do Administratora"
+    },
+    {
+     "h": "Prawo do przenoszenia danych osobowych"
+    },
+    {
+     "p": "Użytkownikom przysługuje prawo uzyskania od Administratora, danych osobowych dotyczących Użytkownika w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego, realizowane na żądanie złożone do Administratora"
+    },
+    {
+     "h": "Prawo wniesienia sprzeciwu wobec przetwarzania danych osobowych"
+    },
+    {
+     "p": "Użytkownikom przysługuje prawo wniesienia sprzeciwu wobec przetwarzania jego danych osobowych w przypadkach określonych w art. 21 RODO, realizowane na żądanie złożone do Administratora"
+    },
+    {
+     "h": "Prawo wniesienia skargi"
+    },
+    {
+     "p": "Użytkownikom przysługuje prawo wniesienia skargi do organu nadzorczego zajmującego się ochroną danych osobowych."
+    },
+    {
+     "h": "§14 Kontakt do Administratora"
+    },
+    {
+     "p": "Z Administratorem można skontaktować się w jeden z poniższych sposobów"
+    },
+    {
+     "p": "Adres pocztowy - Aditya Sharma Asian Shop, Jeździecka 2a/10, Wrocław 53­-032"
+    },
+    {
+     "h": "Adres poczty elektronicznej - biuro@asianshop.pl"
+    },
+    {
+     "p": "Połączenie telefoniczne - +48 609 993 637"
+    },
+    {
+     "p": "Formularz kontaktowy - dostępny pod adresem: https://asianshop.pl/pl/contact"
+    },
+    {
+     "h": "§15 Wymagania Serwisu"
+    },
+    {
+     "p": "Ograniczenie zapisu i dostępu do plików Cookie na Urządzeniu Użytkownika może spowodować nieprawidłowe działanie niektórych funkcji Serwisu."
+    },
+    {
+     "p": "Administrator nie ponosi żadnej odpowiedzialności za nieprawidłowo działające funkcje Serwisu w przypadku gdy Użytkownik ograniczy w jakikolwiek sposób możliwość zapisywania i odczytu plików Cookie."
+    },
+    {
+     "h": "§16 Linki zewnętrzne"
+    },
+    {
+     "p": "W Serwisie - artykułach, postach, wpisach czy komentarzach Użytkowników mogą znajdować się odnośniki do witryn zewnętrznych, z którymi Właściciel serwisu nie współpracuje. Linki te oraz strony lub pliki pod nimi wskazane mogą być niebezpieczne dla Twojego Urządzenia lub stanowić zagrożenie bezpieczeństwa Twoich danych. Administrator nie ponosi odpowiedzialności za zawartość znajdującą się poza Serwisem."
+    },
+    {
+     "h": "§17 Zmiany w Polityce Prywatności"
+    },
+    {
+     "p": "Administrator zastrzega sobie prawo do dowolnej zmiany niniejszej Polityki Prywatności bez konieczności informowania o tym Użytkowników w zakresie stosowania i wykorzystywania danych anonimowych lub stosowania plików Cookie."
+    },
+    {
+     "p": "Administrator zastrzega sobie prawo do dowolnej zmiany niniejszej Polityki Prywatności w zakresie przetwarzania Danych Osobowych, o czym poinformuje Użytkowników posiadających konta użytkownika lub zapisanych do usługi newsletter, za pośrednictwem poczty elektronicznej w terminie do 7 dni od zmiany zapisów. Dalsze korzystanie z usług oznacza zapoznanie się i akceptację wprowadzonych zmian Polityki Prywatności. W przypadku w którym Użytkownik nie będzie się zgadzał z wprowadzonymi zmianami, ma obowiązek usunąć swoje konto z Serwisu lub wypisać się z usługi Newsletter."
+    },
+    {
+     "p": "Wprowadzone zmiany w Polityce Prywatności będą publikowane na tej podstronie Serwisu."
+    },
+    {
+     "p": "Wprowadzone zmiany wchodzą w życie z chwilą ich publikacji."
+    }
+   ]
+  },
+  "about": {
+   "title": "O firmie",
+   "source": "https://asianshop.pl/pl/i/O-firmie/8",
+   "blocks": [
+    {
+     "p": "Hurt i detal azjatyckich produktów spożywczych w Polsce – Twoje źródło orientalnych smaków"
+    },
+    {
+     "p": "Polski rynek coraz chętniej sięga po egzotyczne smaki, a kuchnia azjatycka zyskuje w naszym kraju ogromną popularność. Nasza firma specjalizuje się w importowaniu, dystrybucji oraz sprzedaży hurtowej i detalicznej oryginalnych azjatyckich artykułów spożywczych . Oferujemy szeroki wybór produktów – od aromatycznych przypraw, przez ryże i mąki, po gotowe sosy, przekąski i słodycze. Nasza oferta skierowana jest zarówno do klientów indywidualnych, jak i restauracji, sklepów czy firm cateringowych, które chcą wzbogacić swój asortyment o autentyczne produkty z Indii."
+    },
+    {
+     "p": "Współpracujemy bezpośrednio z renomowanymi producentami z Azji, dzięki czemu gwarantujemy wysoką jakość, świeżość oraz autentyczność oferowanych towarów . Nasz asortyment obejmuje m.in. mieszanki przypraw (masala), soczewice, ciecierzycę, ryż basmati, mąkę z ciecierzycy, pasty curry, a także szeroki wybór indyjskich słodyczy i przekąsek. Dbamy o to, by każdy klient – zarówno hurtowy, jak i detaliczny – mógł znaleźć u nas wszystko, czego potrzebuje do przygotowania tradycyjnych indyjskich potraw lub odkrycia nowych smaków."
+    },
+    {
+     "p": "Nasza firma to nie tylko sprzedaż, ale również profesjonalne doradztwo i indywidualne podejście do każdego klienta . Zapewniamy szybką realizację zamówień, atrakcyjne warunki współpracy oraz stały dostęp do nowości rynkowych. Dzięki nam możesz mieć pewność, że produkty spożywcze dostępne w Polsce są zawsze oryginalne, świeże i najwyższej jakości. Zapraszamy do współpracy zarówno sklepy, restauracje, jak i klientów indywidualnych, którzy pragną odkrywać bogactwo smaków kuchni azjatyckiej!"
+    },
+    {
+     "p": "Adres magazynu: ul. Krakowska 62, Balice 32-083"
+    },
+    {
+     "p": "Adres sklepu detalicznego: Powstańców Śląskich 163, Wrocław 53-138"
+    },
+    {
+     "p": "Założyciele Asian Shop:"
+    },
+    {
+     "h": "Aditya Sharma & Abhi Sharma"
+    }
+   ]
+  },
+  "contact": {
+   "title": "Kontakt",
+   "source": "https://asianshop.pl/pl/contact",
+   "blocks": [
+    {
+     "h": "Formularz kontaktowy"
+    },
+    {
+     "p": "Jesteśmy dostępni, aby Ci pomóc i odpowiedzieć na wszelkie pytania."
+    },
+    {
+     "p": "Infolinia (od poniedziałku do piątku, w godzinach 9:00-19:00): 514251728"
+    },
+    {
+     "h": "Adres e-mail: biuro@asianshop.pl"
+    },
+    {
+     "h": "Obowiązkowe pola oznaczone są symbolem -"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "Imię i nazwisko"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "Adres e-mail"
+    },
+    {
+     "h": "Temat"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "Wiadomość"
+    },
+    {
+     "h": "Wyślij"
+    },
+    {
+     "p": "Magazyn i sklep w Krakowie:"
+    },
+    {
+     "p": "Krakowska 62, 32-083 Balice"
+    },
+    {
+     "p": "Sklep we Wrocławiu:"
+    },
+    {
+     "p": "Powstańców Śląskich 163, 53-138 Wrocław"
+    }
+   ]
+  },
+  "faq": null
+ },
+ "en": {
+  "delivery": {
+   "title": "Delivery Methods and Order Processing",
+   "source": "https://asianshop.pl/en_US/i/Delivery-Methods-and-Order-Processing/29",
+   "blocks": [
+    {
+     "h": "Delivery Methods"
+    },
+    {
+     "p": "We offer the following delivery methods:"
+    },
+    {
+     "p": "Courier (DPD, InPost, DHL) – delivery to the address you provide in Poland, usually within 1–2 business days of dispatch."
+    },
+    {
+     "p": "InPost Parcel Lockers – fast and convenient delivery to the parcel locker of your choice. Delivery usually takes 1–2 business days."
+    },
+    {
+     "p": "Personal collection – possible once we have confirmed that your order is ready."
+    },
+    {
+     "p": "Exact delivery costs and options are shown in the shopping cart before you complete your order. The delivery cost depends on the chosen method and the order value."
+    },
+    {
+     "h": "Order Processing"
+    },
+    {
+     "p": "If the Customer pays by bank transfer, electronic payment or payment card, order processing will begin on the day the payment is credited to the Seller's bank account or once the Online Store receives confirmation from the payment provider that the payment was successful – depending on the payment system."
+    },
+    {
+     "p": "Orders placed and paid on business days by 12:00 noon are usually processed the same day or the next business day. During busy periods or promotions, processing may take slightly longer."
+    }
+   ]
+  },
+  "payments": {
+   "title": "Payment Methods",
+   "source": "https://asianshop.pl/en_US/i/Payment-Methods/28",
+   "blocks": [
+    {
+     "h": "Payment Terms"
+    },
+    {
+     "h": "1. General Provisions"
+    },
+    {
+     "p": "These terms set out the rules for paying for orders placed in the online store operating at: asianshop.pl, hereinafter referred to as \"Asian Shop\"."
+    },
+    {
+     "p": "The owner of the Store is:"
+    },
+    {
+     "h": "Aditya Sharma Asian Shop"
+    },
+    {
+     "p": "Registered address: ul. Krakowska 62, 32-083 Balice, Poland"
+    },
+    {
+     "p": "Tax ID (NIP): 8961651748"
+    },
+    {
+     "p": "REGON: 541640628"
+    },
+    {
+     "h": "Contact e-mail: biuro@asianshop.pl"
+    },
+    {
+     "h": "2. Available Payment Methods"
+    },
+    {
+     "p": "The Customer can pay for an order using the following methods:"
+    },
+    {
+     "h": "Traditional bank transfer to the Seller's bank account"
+    },
+    {
+     "h": "Fast online payments (PayU, Przelewy24)"
+    },
+    {
+     "h": "Credit or debit card payment (Visa, Mastercard)"
+    },
+    {
+     "h": "Cash on delivery (paid in cash when the parcel is received)"
+    },
+    {
+     "h": "3. Payment Deadlines"
+    },
+    {
+     "p": "If you choose a traditional bank transfer, payment should be made within 3 business days of placing the order. You will also receive the transfer details by e-mail after placing your order. After this period the order may be cancelled."
+    },
+    {
+     "h": "4. Payment Confirmation"
+    },
+    {
+     "p": "Once the payment has been credited, the Customer will receive an e-mail confirming the payment."
+    },
+    {
+     "p": "A fiscal receipt – or, on request, a VAT invoice – is issued for every order."
+    },
+    {
+     "h": "5. Refunds"
+    },
+    {
+     "p": "If an order is cancelled or goods are returned (withdrawal from the contract), the payment will be refunded to the Customer within 14 days of the Seller accepting the return."
+    },
+    {
+     "p": "Refunds are made using the same payment method the Customer used for the purchase, unless agreed otherwise; in any case the Buyer will not incur any fees in connection with the refund."
+    },
+    {
+     "h": "6. Transaction Security"
+    },
+    {
+     "p": "All transactions are carried out via secure, encrypted SSL connections."
+    },
+    {
+     "p": "The Store does not store Customers' payment card details."
+    }
+   ]
+  },
+  "returns": {
+   "title": "Returns and Complaints",
+   "source": "https://asianshop.pl/en_US/i/Returns-and-Complaints/26",
+   "blocks": [
+    {
+     "h": "Warranty and Conformity of Goods with the Contract"
+    },
+    {
+     "p": "The goods offered in our store are new and free from defects. The Seller is liable to the Consumer, or to a business customer with consumer rights, for the conformity of the goods with the contract in accordance with the Polish Consumer Rights Act. This liability applies for 2 years from the date of delivery of the goods. If the goods are found not to conform with the contract, the Customer has the right to file a complaint."
+    },
+    {
+     "p": "Complaints should be submitted in writing by e-mail to: biuro@asianshop.pl or by post to:"
+    },
+    {
+     "p": "Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice, Poland"
+    },
+    {
+     "p": "The goods subject to the complaint should be sent to the above address together with a description of the non-conformity. The complaint will be considered within 14 days of its submission. The Customer will be informed of the outcome by e-mail or in writing."
+    },
+    {
+     "p": "If a manufacturer's or distributor's warranty has been granted for a product, information about it (including its duration and terms) can be found in the documentation supplied with the product or on the product page in the store. The warranty does not exclude or limit the rights arising from the seller's liability for the conformity of the goods with the contract."
+    }
+   ]
+  },
+  "terms": {
+   "title": "Terms and Conditions",
+   "source": "https://asianshop.pl/en_US/i/Terms-and-Conditions/25",
+   "blocks": [
+    {
+     "h": "Terms and Conditions of the Asian Shop Online Store"
+    },
+    {
+     "h": "I. General Information"
+    },
+    {
+     "p": "These Terms and Conditions set out the rules for using the Asian Shop online store, available at https://asianshop.pl , operated by:"
+    },
+    {
+     "p": "Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice, Poland, Tax ID (NIP): 8961651748, REGON: 541640628."
+    },
+    {
+     "p": "Contact: biuro@asianshop.pl, tel. +48 609 993 637."
+    },
+    {
+     "p": "The Terms and Conditions are permanently available on the store's website and may be downloaded, saved or printed by the Customer at any time."
+    },
+    {
+     "h": "II. Definitions"
+    },
+    {
+     "p": "Store – the online store operating at https://asianshop.pl ."
+    },
+    {
+     "p": "Customer – a natural or legal person making purchases in the Store."
+    },
+    {
+     "p": "Consumer – a natural person making a purchase not directly related to their business or professional activity."
+    },
+    {
+     "p": "Seller – Aditya Sharma Asian Shop."
+    },
+    {
+     "p": "Terms and Conditions – this document setting out the rules for using the Store."
+    },
+    {
+     "h": "III. Technical Requirements"
+    },
+    {
+     "p": "To use the online store you need:"
+    },
+    {
+     "p": "- a device with Internet access,"
+    },
+    {
+     "p": "- a web browser supporting HTML5, JavaScript and cookies."
+    },
+    {
+     "h": "IV. Registration and User Account"
+    },
+    {
+     "p": "Registering an account in the store is voluntary and free of charge. The Customer may use the store's features without registering. The Customer is responsible for keeping their account login and password confidential."
+    },
+    {
+     "h": "V. Placing and Processing Orders"
+    },
+    {
+     "p": "Orders can be placed 24/7 via the store's website. Order processing begins:"
+    },
+    {
+     "p": "- for online payments – once the payment operator confirms the payment,"
+    },
+    {
+     "p": "- for bank transfers – once the payment has been credited."
+    },
+    {
+     "p": "Orders placed and paid by 12:00 noon on business days are usually processed the same or the next business day."
+    },
+    {
+     "h": "VI. Payment Methods"
+    },
+    {
+     "p": "Online fast-transfer payments are handled by PayPro S.A. (Przelewy24)."
+    },
+    {
+     "p": "The Customer can choose from the following payment methods:"
+    },
+    {
+     "p": "- Traditional bank transfer,"
+    },
+    {
+     "p": "- Fast online payments (PayU, Przelewy24),"
+    },
+    {
+     "p": "- Payment card (Visa, Mastercard),"
+    },
+    {
+     "p": "- Cash on delivery (paid in cash on receipt)."
+    },
+    {
+     "p": "For traditional bank transfers, payment must be made within 3 business days of placing the order. After this time the order may be cancelled."
+    },
+    {
+     "h": "VII. Refunds"
+    },
+    {
+     "p": "If an order is cancelled or the Customer withdraws from the contract, the Seller will refund the payment within 14 days using the same payment method the Customer used (e.g. to the account linked to the payment card), unless agreed otherwise. The Customer does not incur any fees for the refund."
+    },
+    {
+     "h": "VIII. Delivery Methods"
+    },
+    {
+     "p": "We offer the following delivery methods:"
+    },
+    {
+     "p": "- DPD, InPost or DHL courier (1–2 business days),"
+    },
+    {
+     "p": "- InPost Parcel Lockers (1–2 business days),"
+    },
+    {
+     "p": "- Personal collection by prior arrangement (Balice, Krakowska 62)."
+    },
+    {
+     "p": "Delivery costs and available options are shown in the shopping cart before the order is finalised."
+    },
+    {
+     "h": "IX. Right of Withdrawal"
+    },
+    {
+     "p": "A Consumer has the right to withdraw from the contract within 14 days of receiving the goods. To exercise this right, please send a statement by e-mail to: biuro@asianshop.pl."
+    },
+    {
+     "p": "The goods must be returned to: Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice, Poland, no later than 14 days from the date of withdrawal."
+    },
+    {
+     "h": "X. Complaints and Conformity of Goods with the Contract"
+    },
+    {
+     "p": "The Seller is liable for the conformity of the goods with the contract for 2 years from the date of delivery. In the event of non-conformity, the Customer may request:"
+    },
+    {
+     "p": "- repair or replacement of the goods,"
+    },
+    {
+     "p": "- a price reduction,"
+    },
+    {
+     "p": "- withdrawal from the contract (in the case of material non-conformity)."
+    },
+    {
+     "p": "Complaints should be submitted:"
+    },
+    {
+     "p": "- by e-mail: biuro@asianshop.pl"
+    },
+    {
+     "p": "- or in writing: Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice, Poland"
+    },
+    {
+     "p": "The Seller will consider the complaint within 14 calendar days."
+    },
+    {
+     "h": "XI. Personal Data Protection"
+    },
+    {
+     "p": "Personal data is processed in accordance with the Privacy Policy and the GDPR. Details can be found on the store's website under \"Privacy Policy\"."
+    },
+    {
+     "h": "XII. Final Provisions"
+    },
+    {
+     "p": "The Seller may amend these Terms and Conditions at any time. Changes take effect on the date indicated by the Seller and will be communicated to Users via the store's website."
+    },
+    {
+     "p": "Matters not covered by these Terms and Conditions are governed by Polish law."
+    },
+    {
+     "h": "XIII. Promotions and Discounts Policy"
+    },
+    {
+     "p": "- Only one promotion or discount can be applied to each product at a time."
+    },
+    {
+     "p": "- Multiple promotions or discounts cannot be combined."
+    },
+    {
+     "p": "This English version is a translation provided for convenience. In the event of any discrepancy, the Polish version prevails."
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Privacy Policy",
+   "source": "https://asianshop.pl/en_US/i/Privacy-Policy/32",
+   "blocks": [
+    {
+     "p": "This Privacy Policy sets out the rules for storing and accessing data on the Devices of Users who use the Website, for the purpose of the Administrator providing services electronically, as well as the rules for collecting and processing Users' personal data that they have provided personally and voluntarily through the tools available on the Website."
+    },
+    {
+     "p": "This Privacy Policy is an integral part of the Website Terms and Conditions , which set out the rules, rights and obligations of Users using the Website."
+    },
+    {
+     "h": "§1 Definitions"
+    },
+    {
+     "p": "Website – the \"Asianshop.pl\" website operating at https://asianshop.pl"
+    },
+    {
+     "p": "External website – websites of partners, service providers or service recipients cooperating with the Administrator"
+    },
+    {
+     "p": "Website / Data Administrator – the Administrator of the Website and the Data Administrator (hereinafter the Administrator) is \"Aditya Sharma Asian Shop\", with its business address at: Krakowska 62, 32-083 Balice, Poland, Tax ID (NIP): 8961651748, REGON: 541640628, Tel: 609 993 637, e-mail: biuro@asianshop.pl , providing services electronically via the Website"
+    },
+    {
+     "p": "User – a natural person to whom the Administrator provides services electronically via the Website."
+    },
+    {
+     "p": "Device – an electronic device with software through which the User accesses the Website"
+    },
+    {
+     "p": "Cookies – text data collected in the form of files placed on the User's Device"
+    },
+    {
+     "p": "GDPR – Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)"
+    },
+    {
+     "p": "Personal data – any information relating to an identified or identifiable natural person (\"data subject\"); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person"
+    },
+    {
+     "p": "Processing – any operation or set of operations performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction"
+    },
+    {
+     "p": "Restriction of processing – the marking of stored personal data with the aim of limiting their processing in the future"
+    },
+    {
+     "p": "Profiling – any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements"
+    },
+    {
+     "p": "Consent – consent of the data subject means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her"
+    },
+    {
+     "p": "Personal data breach – a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed"
+    },
+    {
+     "p": "Pseudonymisation – the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person"
+    },
+    {
+     "p": "Anonymisation – data anonymisation is an irreversible process of operations on data that destroys / overwrites \"personal data\", making it impossible to identify or link a given record to a specific user or natural person."
+    },
+    {
+     "h": "§2 Data Protection Officer"
+    },
+    {
+     "p": "Pursuant to Art. 37 GDPR, the Administrator has not appointed a Data Protection Officer."
+    },
+    {
+     "p": "In matters concerning data processing, including personal data, please contact the Administrator directly."
+    },
+    {
+     "h": "§3 Types of Cookies"
+    },
+    {
+     "p": "Internal cookies – files placed on and read from the User's Device by the Website's IT system"
+    },
+    {
+     "p": "External cookies – files placed on and read from the User's Device by the IT systems of External websites. Scripts of External websites that may place Cookies on Users' Devices have been deliberately placed on the Website through scripts and services made available and installed on the Website"
+    },
+    {
+     "p": "Session cookies – files placed on and read from the User's Device by the Website during a single session of the Device. After the session ends, the files are deleted from the User's Device."
+    },
+    {
+     "p": "Persistent cookies – files placed on and read from the User's Device by the Website until they are manually deleted. The files are not deleted automatically after the Device session ends, unless the User's Device is configured to delete Cookies after the session ends."
+    },
+    {
+     "h": "§4 Security of Data Storage"
+    },
+    {
+     "p": "Cookie storage and reading mechanisms – the mechanisms for storing, reading and exchanging data between Cookies saved on the User's Device and the Website are implemented through the built-in mechanisms of web browsers and do not allow other data to be retrieved from the User's Device or data from other websites visited by the User, including personal data or confidential information. Transferring viruses, Trojan horses or other worms to the User's Device is also practically impossible."
+    },
+    {
+     "p": "Internal cookies – the Cookies used by the Administrator are safe for Users' Devices and do not contain scripts, content or information that could threaten the security of personal data or the security of the Device used by the User."
+    },
+    {
+     "p": "External cookies – the Administrator takes all possible steps to verify and select Website partners with regard to User security. The Administrator chooses well-known, large partners with global public trust. However, the Administrator does not have full control over the content of Cookies originating from external partners. To the extent permitted by law, the Administrator is not responsible for the security of Cookies, their content or their licence-compliant use by Scripts from External websites installed on the Website. The list of partners is provided later in this Privacy Policy."
+    },
+    {
+     "h": "Cookie control"
+    },
+    {
+     "p": "The User may, at any time, change the settings for saving, deleting and accessing data stored in Cookies by any website"
+    },
+    {
+     "p": "Information on how to disable Cookies in the most popular browsers is available from the browser providers:"
+    },
+    {
+     "h": "Managing cookies in Chrome"
+    },
+    {
+     "h": "Managing cookies in Opera"
+    },
+    {
+     "h": "Managing cookies in Firefox"
+    },
+    {
+     "h": "Managing cookies in Edge"
+    },
+    {
+     "h": "Managing cookies in Safari"
+    },
+    {
+     "p": "The User may at any time delete all Cookies saved so far using the tools of the Device through which the User uses the Website's services."
+    },
+    {
+     "p": "Risks on the User's side – the Administrator uses all possible technical measures to ensure the security of data stored in Cookies. However, ensuring the security of this data depends on both parties, including the User's activity. The Administrator is not responsible for the interception of this data, impersonation of the User's session or its deletion as a result of the User's conscious or unconscious activity, viruses, Trojan horses or other spyware with which the User's Device may be or may have been infected. To protect themselves against these risks, Users should follow safe Internet usage practices."
+    },
+    {
+     "p": "Storage of personal data – the Administrator ensures that it makes every effort to keep the personal data voluntarily entered by Users secure, that access to it is limited and carried out in accordance with its intended use and the purposes of processing. The Administrator also ensures that it makes every effort to protect the data it holds against loss by applying appropriate physical and organisational safeguards."
+    },
+    {
+     "p": "Password storage – the Administrator declares that passwords are stored in encrypted form, using the latest standards and guidelines in this area. Decrypting account passwords entered on the Website is practically impossible."
+    },
+    {
+     "h": "§5 Purposes for Which Cookies Are Used"
+    },
+    {
+     "h": "Improving and facilitating access to the Website"
+    },
+    {
+     "h": "Personalising the Website for Users"
+    },
+    {
+     "h": "Enabling Users to log in to the Website"
+    },
+    {
+     "h": "Marketing and remarketing on external websites"
+    },
+    {
+     "h": "Ad-serving services"
+    },
+    {
+     "h": "Affiliate services"
+    },
+    {
+     "p": "Keeping statistics (users, number of visits, device types, connection, etc.)"
+    },
+    {
+     "h": "Providing multimedia services"
+    },
+    {
+     "h": "Providing social media services"
+    },
+    {
+     "h": "§6 Purposes of Personal Data Processing"
+    },
+    {
+     "p": "Personal data voluntarily provided by Users is processed for one of the following purposes:"
+    },
+    {
+     "p": "Providing electronic services:"
+    },
+    {
+     "p": "Registering and maintaining the User's account on the Website and related functionality"
+    },
+    {
+     "p": "Newsletter service (including sending advertising content with consent)"
+    },
+    {
+     "p": "Commenting on / liking posts on the Website without having to register"
+    },
+    {
+     "p": "Sharing information about content published on the Website on social networks or other websites"
+    },
+    {
+     "p": "Communication between the Administrator and Users on matters related to the Website and data protection"
+    },
+    {
+     "h": "Pursuing the Administrator's legitimate interests"
+    },
+    {
+     "p": "Data about Users collected anonymously and automatically is processed for one of the following purposes:"
+    },
+    {
+     "h": "Keeping statistics"
+    },
+    {
+     "h": "Remarketing"
+    },
+    {
+     "h": "Serving advertisements tailored to Users' preferences"
+    },
+    {
+     "h": "Operating affiliate programmes"
+    },
+    {
+     "h": "Pursuing the Administrator's legitimate interests"
+    },
+    {
+     "h": "§7 Cookies of External Websites"
+    },
+    {
+     "p": "On the Website, the Administrator uses JavaScript scripts and web components of partners who may place their own cookies on the User's Device. Remember that in your browser settings you can decide which cookies may be used by individual websites. Below is a list of partners or their services implemented on the Website that may place cookies:"
+    },
+    {
+     "p": "Social / connected services:"
+    },
+    {
+     "h": "(Registration, login, content sharing, communication, etc.)"
+    },
+    {
+     "h": "Facebook"
+    },
+    {
+     "h": "Google+"
+    },
+    {
+     "p": "Content sharing services:"
+    },
+    {
+     "h": "WhatsApp"
+    },
+    {
+     "h": "Instagram"
+    },
+    {
+     "p": "Newsletter services:"
+    },
+    {
+     "h": "MailChimp"
+    },
+    {
+     "p": "Ad-serving services and affiliate networks:"
+    },
+    {
+     "h": "Google Adsense"
+    },
+    {
+     "p": "Statistics:"
+    },
+    {
+     "h": "Google Analytics"
+    },
+    {
+     "p": "Services provided by third parties are beyond the Administrator's control. These entities may change their terms of service, privacy policies, purposes of data processing and the way they use cookies at any time."
+    },
+    {
+     "h": "§8 Types of Data Collected"
+    },
+    {
+     "p": "The Website collects data about Users. Some data is collected automatically and anonymously, and some is personal data voluntarily provided by Users when signing up for individual services offered by the Website."
+    },
+    {
+     "p": "Anonymous data collected automatically:"
+    },
+    {
+     "h": "IP address"
+    },
+    {
+     "h": "Browser type"
+    },
+    {
+     "h": "Screen resolution"
+    },
+    {
+     "h": "Approximate location"
+    },
+    {
+     "h": "Website subpages opened"
+    },
+    {
+     "h": "Time spent on a given subpage"
+    },
+    {
+     "h": "Operating system type"
+    },
+    {
+     "h": "Address of the previous subpage"
+    },
+    {
+     "h": "Referring page address"
+    },
+    {
+     "h": "Browser language"
+    },
+    {
+     "h": "Internet connection speed"
+    },
+    {
+     "h": "Internet service provider"
+    },
+    {
+     "p": "Data collected during registration:"
+    },
+    {
+     "h": "First name / surname / nickname"
+    },
+    {
+     "h": "Login"
+    },
+    {
+     "h": "E-mail address"
+    },
+    {
+     "h": "Home address"
+    },
+    {
+     "h": "Telephone number"
+    },
+    {
+     "h": "IP address (collected automatically)"
+    },
+    {
+     "h": "Tax ID (NIP)"
+    },
+    {
+     "h": "Data collected when subscribing to the Newsletter"
+    },
+    {
+     "h": "First name / surname / nickname"
+    },
+    {
+     "h": "E-mail address"
+    },
+    {
+     "h": "Home address"
+    },
+    {
+     "h": "Gender"
+    },
+    {
+     "h": "Date of birth / age"
+    },
+    {
+     "h": "IP address (collected automatically)"
+    },
+    {
+     "h": "Data collected when adding a comment"
+    },
+    {
+     "h": "First name and surname / nickname"
+    },
+    {
+     "h": "E-mail address"
+    },
+    {
+     "h": "Website address"
+    },
+    {
+     "h": "IP address (collected automatically)"
+    },
+    {
+     "p": "Some data (without identifying data) may be stored in cookies. Some data (without identifying data) may be transferred to a statistics service provider."
+    },
+    {
+     "h": "§9 Access to Personal Data by Third Parties"
+    },
+    {
+     "p": "As a rule, the only recipient of personal data provided by Users is the Administrator. Data collected as part of the services provided is not transferred or resold to third parties."
+    },
+    {
+     "p": "Access to the data (usually on the basis of a data processing agreement) may be granted to entities responsible for maintaining the infrastructure and services necessary to run the Website, i.e.:"
+    },
+    {
+     "p": "Hosting companies providing hosting or related services to the Administrator"
+    },
+    {
+     "h": "Companies through which the Newsletter service is provided"
+    },
+    {
+     "p": "Companies that act as intermediaries for online payments for goods or services offered on the Website (when making purchases on the Website)"
+    },
+    {
+     "h": "Entrusting the processing of personal data – Newsletter"
+    },
+    {
+     "p": "To provide the Newsletter service, the Administrator uses the services of a third party – MailChimp . Data entered in the newsletter sign-up form is transferred, stored and processed on this service provider's external platform."
+    },
+    {
+     "p": "Please note that this partner may modify its privacy policy without the Administrator's consent."
+    },
+    {
+     "p": "Entrusting the processing of personal data – Hosting, VPS or Dedicated Server services"
+    },
+    {
+     "p": "To run the Website, the Administrator uses the services of an external hosting, VPS or Dedicated Server provider – home.pl . All data collected and processed on the Website is stored and processed in the service provider's infrastructure located in Poland. Data may be accessed as a result of maintenance work carried out by the service provider's staff. Access to this data is governed by an agreement between the Administrator and the Service Provider."
+    },
+    {
+     "h": "Data processing for online payments"
+    },
+    {
+     "p": "For online payments, all payment data is transferred by the User directly to the payment provider – Przelewy24 . Selected data necessary to complete the transaction is then passed on by this entity to the Administrator. The transfer of data is governed by an agreement between the Administrator and the Service Provider."
+    },
+    {
+     "h": "§10 How Personal Data Is Processed"
+    },
+    {
+     "p": "Personal data voluntarily provided by Users:"
+    },
+    {
+     "p": "Personal data will not be transferred outside the European Union, unless it has been published as a result of an individual action by the User (e.g. posting a comment or entry), which will make the data available to anyone visiting the Website."
+    },
+    {
+     "p": "Personal data will not be used for automated decision-making (profiling)."
+    },
+    {
+     "p": "Personal data will not be resold to third parties."
+    },
+    {
+     "p": "Anonymous data (without personal data) collected automatically:"
+    },
+    {
+     "p": "Anonymous data (without personal data) will be transferred outside the European Union."
+    },
+    {
+     "p": "Anonymous data (without personal data) will not be used for automated decision-making (profiling)."
+    },
+    {
+     "p": "Anonymous data (without personal data) will not be resold to third parties."
+    },
+    {
+     "h": "§11 Legal Basis for Processing Personal Data"
+    },
+    {
+     "p": "The Website collects and processes Users' data on the basis of:"
+    },
+    {
+     "p": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)"
+    },
+    {
+     "h": "Art. 6(1)(a)"
+    },
+    {
+     "p": "the data subject has given consent to the processing of his or her personal data for one or more specific purposes"
+    },
+    {
+     "h": "Art. 6(1)(b)"
+    },
+    {
+     "p": "processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract"
+    },
+    {
+     "h": "Art. 6(1)(f)"
+    },
+    {
+     "p": "processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party"
+    },
+    {
+     "p": "Polish Act of 10 May 2018 on the Protection of Personal Data (Journal of Laws 2018, item 1000)"
+    },
+    {
+     "p": "Polish Telecommunications Law Act of 16 July 2004 (Journal of Laws 2004 No. 171, item 1800)"
+    },
+    {
+     "p": "Polish Act of 4 February 1994 on Copyright and Related Rights (Journal of Laws 1994 No. 24, item 83)"
+    },
+    {
+     "h": "§12 Period of Personal Data Processing"
+    },
+    {
+     "p": "Personal data voluntarily provided by Users:"
+    },
+    {
+     "p": "As a rule, the personal data indicated is stored only for the period during which the Administrator provides the Service via the Website. It is deleted or anonymised within 30 days of the end of the service (e.g. deletion of a registered user account, unsubscribing from the Newsletter, etc.)."
+    },
+    {
+     "p": "An exception is a situation that requires securing the Administrator's legitimate purposes for further processing of this data. In such a situation, the Administrator will store the data, from the time the User requests its deletion, for no longer than 3 years in the event of a breach or suspected breach of the Website Terms and Conditions by the User."
+    },
+    {
+     "p": "Anonymous data (without personal data) collected automatically:"
+    },
+    {
+     "p": "Anonymous statistical data that does not constitute personal data is stored by the Administrator for the purpose of keeping Website statistics for an indefinite period."
+    },
+    {
+     "h": "§13 Users' Rights Related to the Processing of Personal Data"
+    },
+    {
+     "p": "Users have the following rights:"
+    },
+    {
+     "h": "Right of access to personal data"
+    },
+    {
+     "p": "Users have the right to access their personal data, exercised on request submitted to the Administrator"
+    },
+    {
+     "h": "Right to rectification of personal data"
+    },
+    {
+     "p": "Users have the right to request that the Administrator promptly rectify inaccurate personal data and/or complete incomplete personal data, exercised on request submitted to the Administrator"
+    },
+    {
+     "h": "Right to erasure of personal data"
+    },
+    {
+     "p": "Users have the right to request that the Administrator promptly erase their personal data, exercised on request submitted to the Administrator. For user accounts, erasure consists of anonymising the data that allows the User to be identified. The Administrator reserves the right to suspend the execution of an erasure request in order to protect its legitimate interests (e.g. where the User has breached the Terms and Conditions or the data was obtained as a result of correspondence)."
+    },
+    {
+     "p": "For the Newsletter service, the User can delete their personal data themselves using the link included in every e-mail sent."
+    },
+    {
+     "h": "Right to restriction of processing"
+    },
+    {
+     "p": "Users have the right to restrict the processing of their personal data in the cases indicated in Art. 18 GDPR, including contesting the accuracy of the personal data, exercised on request submitted to the Administrator"
+    },
+    {
+     "h": "Right to data portability"
+    },
+    {
+     "p": "Users have the right to receive from the Administrator the personal data concerning them in a structured, commonly used and machine-readable format, exercised on request submitted to the Administrator"
+    },
+    {
+     "h": "Right to object to processing"
+    },
+    {
+     "p": "Users have the right to object to the processing of their personal data in the cases set out in Art. 21 GDPR, exercised on request submitted to the Administrator"
+    },
+    {
+     "h": "Right to lodge a complaint"
+    },
+    {
+     "p": "Users have the right to lodge a complaint with the supervisory authority responsible for personal data protection."
+    },
+    {
+     "h": "§14 Contacting the Administrator"
+    },
+    {
+     "p": "The Administrator can be contacted in one of the following ways:"
+    },
+    {
+     "p": "Postal address – Aditya Sharma Asian Shop, Jeździecka 2a/10, 53-032 Wrocław, Poland"
+    },
+    {
+     "h": "E-mail address – biuro@asianshop.pl"
+    },
+    {
+     "p": "Telephone – +48 609 993 637"
+    },
+    {
+     "h": "Contact form – available at: https://asianshop.pl/en_US/contact"
+    },
+    {
+     "h": "§15 Website Requirements"
+    },
+    {
+     "p": "Restricting the saving of and access to Cookies on the User's Device may cause some Website functions to work incorrectly."
+    },
+    {
+     "p": "The Administrator is not responsible for incorrectly working Website functions if the User restricts in any way the ability to save and read Cookies."
+    },
+    {
+     "h": "§16 External Links"
+    },
+    {
+     "p": "The Website – articles, posts, entries or Users' comments – may contain links to external websites with which the Website owner does not cooperate. These links and the pages or files they point to may be dangerous to your Device or pose a threat to the security of your data. The Administrator is not responsible for content located outside the Website."
+    },
+    {
+     "h": "§17 Changes to the Privacy Policy"
+    },
+    {
+     "p": "The Administrator reserves the right to change this Privacy Policy at any time, without informing Users, with regard to the use of anonymous data or the use of Cookies."
+    },
+    {
+     "p": "The Administrator reserves the right to change this Privacy Policy at any time with regard to the processing of Personal Data, of which it will inform Users with user accounts or subscribed to the newsletter by e-mail within 7 days of the change. Continued use of the services means that the User has read and accepts the changes to the Privacy Policy. If the User does not agree with the changes, they must delete their account from the Website or unsubscribe from the Newsletter."
+    },
+    {
+     "p": "Changes to the Privacy Policy will be published on this subpage of the Website."
+    },
+    {
+     "p": "Changes take effect upon publication."
+    },
+    {
+     "p": "This English version is a translation provided for convenience. In the event of any discrepancy, the Polish version prevails."
+    }
+   ]
+  },
+  "about": {
+   "title": "About the Company",
+   "source": "https://asianshop.pl/en_US/i/About-the-Company/27",
+   "blocks": [
+    {
+     "p": "Wholesale and Retail Asian Food Products in Poland – Your Source of Oriental Flavours"
+    },
+    {
+     "p": "Polish customers are increasingly reaching for exotic flavours, and Asian cuisine is becoming hugely popular in our country. Our company specialises in the import, distribution, and wholesale and retail sale of authentic Asian food products . We offer a wide range of products – from aromatic spices, through rice and flours, to ready-made sauces, snacks and sweets. Our offer is aimed at individual customers as well as restaurants, shops and catering companies that want to enrich their range with authentic products from India."
+    },
+    {
+     "p": "We work directly with renowned producers from Asia, which allows us to guarantee high quality, freshness and authenticity of the goods we offer . Our range includes spice blends (masala), lentils, chickpeas, basmati rice, chickpea flour, curry pastes and a wide selection of Indian sweets and snacks. We make sure that every customer – wholesale or retail – can find everything they need to prepare traditional Indian dishes or discover new flavours."
+    },
+    {
+     "p": "Our company is not only about sales, but also about professional advice and an individual approach to every customer . We ensure fast order processing, attractive terms of cooperation and constant access to new products on the market. With us, you can be sure that the food products available in Poland are always authentic, fresh and of the highest quality. We welcome shops, restaurants and individual customers who want to discover the richness of Asian cuisine!"
+    },
+    {
+     "p": "Warehouse address: ul. Krakowska 62, Balice 32-083"
+    },
+    {
+     "p": "Retail shop address: Powstańców Śląskich 163, Wrocław 53-138"
+    },
+    {
+     "p": "Founders of Asian Shop:"
+    },
+    {
+     "h": "Aditya Sharma & Abhi Sharma"
+    }
+   ]
+  },
+  "contact": {
+   "title": "Contact",
+   "source": "https://asianshop.pl/en_US/contact",
+   "blocks": [
+    {
+     "h": "Contact us"
+    },
+    {
+     "p": "We are available to help you and answer any questions."
+    },
+    {
+     "p": "Hotline (Monday to Friday, 9:00 a.m. - 7:00 p.m.): 514251728"
+    },
+    {
+     "h": "E-mail: biuro@asianshop.pl"
+    },
+    {
+     "h": "Required fields are marked with -"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "First and last name"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "E-mail address"
+    },
+    {
+     "h": "Subject"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "Message"
+    },
+    {
+     "h": "Send"
+    },
+    {
+     "p": "Warehouse & shop in Krakow:"
+    },
+    {
+     "p": "Krakowska 62, 32-083 Balice"
+    },
+    {
+     "p": "Shop in Wroclaw:"
+    },
+    {
+     "p": "Powstańców Śląskich 163, 53-138 Wrocław"
+    }
+   ]
+  },
+  "faq": {
+   "title": "Questions and Answers",
+   "source": "https://asianshop.pl/en_US/i/Questions-and-Answers/31",
+   "blocks": [
+    {
+     "h": "Do you deliver orders abroad?"
+    },
+    {
+     "p": "Yes, we ship orders to all European Union countries. When placing your order, you choose the delivery country and a delivery method available in that country. Deliveries are made by DPD courier."
+    },
+    {
+     "h": "Can I return or exchange a product?"
+    },
+    {
+     "p": "You can return a product within 14 days of receiving your order. More information can be found on the page: Returns and Complaints . If you would like to order a different product instead, you can return the product and place a new order."
+    }
+   ]
+  }
+ },
+ "de": {
+  "delivery": {
+   "title": "Lieferarten und Auftragsabwicklung",
+   "source": "https://asianshop.pl/de_DE/i/Lieferarten-und-Auftragsabwicklung/17",
+   "blocks": [
+    {
+     "p": "Lieferarten:"
+    },
+    {
+     "p": "Wir bieten die folgenden Lieferarten an:"
+    },
+    {
+     "p": "Kurierdienst (DPD, InPost, DHL) – Lieferung an eine angegebene Adresse in Polen in der Regel innerhalb von 1–2 Werktagen ab dem Versand."
+    },
+    {
+     "p": "InPost-Paketautomaten – schnelle und bequeme Lieferung an einen ausgewählten Paketautomaten. Die Bearbeitungszeit beträgt in der Regel 1–2 Werktage."
+    },
+    {
+     "p": "Persönliche Abholung – nach vorheriger Bestätigung der Vorbereitung der Bestellung möglich."
+    },
+    {
+     "p": "Die genauen Lieferkosten und verfügbaren Optionen werden vor Abschluss der Bestellung im Warenkorb angezeigt. Die Lieferkosten hängen von der gewählten Lieferart und dem Bestellwert ab."
+    },
+    {
+     "h": "Auftragsabwicklung"
+    },
+    {
+     "p": "Wenn der Kunde als Zahlungsart eine Banküberweisung, eine elektronische Zahlung oder eine Kartenzahlung auswählt, beginnt die Auftragsabwicklung an dem Tag, an dem das Bankkonto des Verkäufers gutgeschrieben wird, oder nachdem der Onlineshop vom Zahlungsdienstleister die Bestätigung über die erfolgreiche Zahlung erhalten hat – abhängig vom jeweiligen Zahlungssystem."
+    },
+    {
+     "p": "Bestellungen, die an Werktagen vor 12:00 Uhr aufgegeben und bezahlt werden, werden in der Regel noch am selben oder am nächsten Werktag bearbeitet. Bei einem hohen Bestellaufkommen oder während Aktionszeiträumen kann die Bearbeitungszeit geringfügig länger sein."
+    }
+   ]
+  },
+  "payments": {
+   "title": "Zahlungsarten",
+   "source": "https://asianshop.pl/de_DE/i/Zahlungsarten/16",
+   "blocks": [
+    {
+     "h": "Zahlungsbedingungen"
+    },
+    {
+     "h": "1. Allgemeine Bestimmungen"
+    },
+    {
+     "p": "Diese Zahlungsbedingungen legen die Regeln für die Bezahlung von Bestellungen fest, die im unter asianshop.pl betriebenen Onlineshop aufgegeben werden, nachfolgend „Asian Shop“ genannt."
+    },
+    {
+     "p": "Der Shop gehört zu:"
+    },
+    {
+     "h": "Aditya Sharma Asian Shop"
+    },
+    {
+     "p": "Geschäftsanschrift: ul. Krakowska 62, 32-083, Balice"
+    },
+    {
+     "p": "Steueridentifikationsnummer (NIP): 8961651748"
+    },
+    {
+     "p": "REGON: 541640628"
+    },
+    {
+     "h": "Kontakt-E-Mail: biuro@asianshop.pl"
+    },
+    {
+     "h": "2. Verfügbare Zahlungsarten"
+    },
+    {
+     "p": "Der Kunde kann die Bestellung mit den folgenden Zahlungsarten bezahlen."
+    },
+    {
+     "h": "Herkömmliche Banküberweisung auf das Bankkonto des Verkäufers"
+    },
+    {
+     "h": "Schnelle Online-Zahlungen (PayU, Przelewy24)"
+    },
+    {
+     "h": "Zahlung per Kredit- oder Debitkarte (Visa, Mastercard)"
+    },
+    {
+     "h": "Nachnahmezahlung (Barzahlung bei Lieferung)"
+    },
+    {
+     "h": "3. Zahlungsfristen"
+    },
+    {
+     "p": "Bei Auswahl der herkömmlichen Banküberweisung muss die Zahlung innerhalb von 3 Werktagen nach Aufgabe der Bestellung erfolgen. Die Überweisungsdaten erhalten Sie nach Aufgabe der Bestellung zusätzlich per E-Mail. Nach Ablauf dieser Frist kann die Bestellung storniert werden."
+    },
+    {
+     "h": "4. Zahlungsbestätigung"
+    },
+    {
+     "p": "Nach Verarbeitung der Zahlung erhält der Kunde eine Zahlungsbestätigung per E-Mail."
+    },
+    {
+     "p": "Für jede Bestellung wird auf Wunsch eine Quittung oder eine Rechnung mit ausgewiesener Mehrwertsteuer ausgestellt."
+    },
+    {
+     "h": "5. Rückerstattungen"
+    },
+    {
+     "p": "Im Falle einer Stornierung oder Rückgabe der Bestellung (Rücktritt vom Vertrag) wird die Zahlung innerhalb von 14 Tagen ab dem Datum, an dem der Verkäufer die Rückgabe akzeptiert hat, an den Kunden zurückerstattet."
+    },
+    {
+     "p": "Die Rückerstattung erfolgt über dieselbe Zahlungsart, die der Kunde für den Kauf verwendet hat, sofern nichts anderes vereinbart wurde. Dem Kunden entstehen durch diese Rückerstattung in keinem Fall Gebühren."
+    },
+    {
+     "h": "6. Sicherheit der Transaktionen"
+    },
+    {
+     "p": "Alle Transaktionen werden über sichere und verschlüsselte SSL-Verbindungen verarbeitet."
+    },
+    {
+     "p": "Der Shop speichert keine Zahlungskartendaten des Kunden."
+    }
+   ]
+  },
+  "returns": {
+   "title": "Rückgaben und Beschwerden",
+   "source": "https://asianshop.pl/de_DE/i/Ruckgaben-und-Beschwerden/18",
+   "blocks": [
+    {
+     "h": "Garantie und Vertragsmäßigkeit der Produkte"
+    },
+    {
+     "p": "Die in unserem Shop angebotenen Waren sind neu und frei von Mängeln. Der Verkäufer haftet gegenüber dem Verbraucher oder dem Unternehmer mit Verbraucherrechten für die Vertragsmäßigkeit der Waren gemäß den Bestimmungen des Gesetzes über Verbraucherrechte. Diese Haftung gilt für einen Zeitraum von 2 Jahren ab dem Datum der Lieferung. Wird festgestellt, dass die Ware nicht vertragsgemäß ist, hat der Kunde das Recht, eine Beschwerde einzureichen."
+    },
+    {
+     "p": "Beschwerden sind schriftlich an folgende E-Mail-Adresse: biuro@asianshop.pl oder postalisch an: Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083, Balice zu richten."
+    },
+    {
+     "p": "Die beanstandete Ware ist zusammen mit einer Beschreibung der Vertragswidrigkeit an die oben genannte Adresse zurückzusenden. Die Beschwerde wird innerhalb von 14 Tagen nach ihrer Einreichung geprüft. Der Kunde wird per E-Mail oder schriftlich über das Ergebnis der Beschwerde informiert."
+    },
+    {
+     "p": "Falls für ein Produkt eine Herstellergarantie oder eine Garantie des Vertriebsunternehmens gilt, sind Informationen darüber, einschließlich ihrer Dauer und Bedingungen, in den dem Produkt beigefügten Unterlagen oder auf der Website des Produkts zu finden. Diese Garantie schließt die Haftung des Verkäufers für die Vertragsmäßigkeit des Produkts weder aus noch beschränkt sie diese."
+    }
+   ]
+  },
+  "terms": {
+   "title": "Allgemeine Geschäftsbedingungen",
+   "source": "https://asianshop.pl/de_DE/i/Allgemeine-Geschaftsbedingungen/20",
+   "blocks": [
+    {
+     "h": "Allgemeine Geschäftsbedingungen des Onlineshops Asian Shop"
+    },
+    {
+     "h": "I. Allgemeine Informationen"
+    },
+    {
+     "p": "These Terms and Conditions define the operating rules of the Asian Shop Onlineshop, available at https://asianshop.pl , operated by:"
+    },
+    {
+     "p": "Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice, Poland, Tax Identification Number (NIP): 8961651748, National Business Registry Number (REGON): 541640628."
+    },
+    {
+     "p": "Contact: biuro@asianshop.pl, tel. +48 609 993 637."
+    },
+    {
+     "p": "These Terms and Conditions are continuously available on the store's website and can be downloaded, saved, or printed by the Kunde at any time."
+    },
+    {
+     "h": "II. Begriffsbestimmungen"
+    },
+    {
+     "p": "1. Shop – the Onlineshop operating at https://asianshop.pl ."
+    },
+    {
+     "p": "2. Kunde – a natural or legal person making a purchase in the Shop."
+    },
+    {
+     "p": "3. Verbraucher – a natural person making a purchase not directly related to their business activity."
+    },
+    {
+     "p": "4. Verkäufer – Aditya Sharma Asian Shop. 5. Terms and Conditions – this document defining the terms of use of the store."
+    },
+    {
+     "h": "III. Technische Voraussetzungen"
+    },
+    {
+     "p": "To use the Onlineshop, you must have:"
+    },
+    {
+     "p": "- a device with internet access,"
+    },
+    {
+     "p": "- a web browser that supports HTML5, JavaScript, and cookies."
+    },
+    {
+     "h": "IV. Registrierung und Kundenkonto"
+    },
+    {
+     "p": "Registering an account in the store is voluntary and free of charge. The customer may use the store's functionalities without registration. The customer is responsible for maintaining the confidentiality of their account login and password."
+    },
+    {
+     "h": "V. Aufgabe und Abwicklung von Bestellungen"
+    },
+    {
+     "p": "Orders can be placed 24/7 via the store's website. Order fulfillment begins:"
+    },
+    {
+     "p": "- for online Zahlungs – after confirmation by the Zahlung provider,"
+    },
+    {
+     "p": "- for bank transfers – after Zahlung is received."
+    },
+    {
+     "p": "Orders placed and paid by 12:00 PM on business days are usually processed on the same or next business day."
+    },
+    {
+     "h": "VI. Zahlungsarten"
+    },
+    {
+     "p": "PayPro S.A. is the online Zahlung service provider for fast transfers. (Przelewy24)"
+    },
+    {
+     "p": "The Kunde can choose from the following Zahlung methods:"
+    },
+    {
+     "p": "- Traditional bank transfer,"
+    },
+    {
+     "p": "- Fast online Zahlungs (PayU, Przelewy24),"
+    },
+    {
+     "p": "- Payment card (Visa, Mastercard),"
+    },
+    {
+     "p": "- Cash on Lieferung (cash on Lieferung)."
+    },
+    {
+     "p": "For traditional transfers, Zahlung must be made within 3 business days of placing the Bestellung. After this time, the Bestellung may be canceled."
+    },
+    {
+     "h": "VII. Rückerstattungen"
+    },
+    {
+     "p": "In the event of an Bestellung cancellation or withdrawal from the contract, the Verkäufer will refund the Zahlung within 14 days using the same method used by the Kunde (e.g., to the account associated with the Zahlung card), unless otherwise agreed. The Kunde will not incur any fees for such a refund."
+    },
+    {
+     "h": "VIII. Lieferarten"
+    },
+    {
+     "p": "We offer the following Lieferung methods:"
+    },
+    {
+     "p": "- DPD, InPost, DHL courier (1-2 business days),"
+    },
+    {
+     "p": "- InPost parcel lockers (1-2 business days),"
+    },
+    {
+     "p": "- Personal pickup by appointment (Balice, Krakowska 62)."
+    },
+    {
+     "p": "Delivery costs and available options are displayed in the shopping cart before finalizing your Bestellung."
+    },
+    {
+     "h": "IX. Widerrufsrecht"
+    },
+    {
+     "p": "The consumer has the right to withdraw from the contract within 14 days of receiving the goods. To exercise the right of withdrawal, please send a statement by email to: biuro@asianshop.pl."
+    },
+    {
+     "p": "The goods should be returned to: Aditya Sharma Asian Shop, Krakowska 62, 32-083 Balice, no later than 14 days from the date of withdrawal."
+    },
+    {
+     "h": "X. Beschwerden und Vertragsmäßigkeit der Produkte"
+    },
+    {
+     "p": "The seller is responsible for the product's conformity with the contract for 2 years from the date of Lieferung. In the event of non-compliance, the Kunde may request:"
+    },
+    {
+     "p": "- repair or replacement of the goods,"
+    },
+    {
+     "p": "- reduction in price,"
+    },
+    {
+     "p": "- withdrawal from the contract (in the event of significant non-compliance)."
+    },
+    {
+     "p": "Complaints should be submitted:"
+    },
+    {
+     "p": "- by email: biuro@asianshop.pl"
+    },
+    {
+     "p": "- or in writing: Aditya Sharma Asian Shop, ul. Krakowska 62, 32-083 Balice"
+    },
+    {
+     "p": "The Verkäufer will review the Beschwerde within 14 calendar days."
+    },
+    {
+     "h": "XI. Schutz personenbezogener Daten"
+    },
+    {
+     "p": "Personal data are processed in accordance with the Privacy Policy and GDPR. Details can be found on the store's website in the \"Privacy Policy\" tab."
+    },
+    {
+     "h": "XII. Schlussbestimmungen"
+    },
+    {
+     "p": "These Terms and Conditions may be amended by the Verkäufer at any time. Amendments shall take effect on the date specified by the Verkäufer and will be communicated to Users via the store's website."
+    },
+    {
+     "p": "In matters not covered by these Terms and Conditions, Polish law shall apply."
+    },
+    {
+     "h": "XIII. Promotions & Discounts Policy"
+    },
+    {
+     "p": "- Only one promotion or discount can be applied per product at a time."
+    },
+    {
+     "p": "- Multiple promotions or discounts cannot be combined."
+    }
+   ]
+  },
+  "privacy": null,
+  "about": {
+   "title": "Über das Unternehmen",
+   "source": "https://asianshop.pl/de_DE/i/Uber-das-Unternehmen/15",
+   "blocks": [
+    {
+     "p": "Asiatische Lebensmittel im Groß- und Einzelhandel in Polen – Ihre Quelle für orientalische Aromen"
+    },
+    {
+     "p": "Der europäische Markt greift zunehmend nach exotischen Aromen, und die indische Küche erfreut sich in unserem Land großer Beliebtheit. Unser Unternehmen ist auf den Import, den Vertrieb sowie den Groß- und Einzelhandel mit authentischen asiatischen Lebensmitteln spezialisiert . Wir bieten eine große Auswahl an Produkten – von aromatischen Gewürzen, Reis und Mehlen bis hin zu fertigen Saucen, Snacks und Süßigkeiten. Unser Angebot richtet sich sowohl an Privatkunden als auch an Restaurants, Geschäfte und Catering-Unternehmen, die ihr Sortiment um authentische asiatische Produkte erweitern möchten."
+    },
+    {
+     "p": "Wir arbeiten direkt mit renommierten indischen Herstellern zusammen und garantieren dadurch die hohe Qualität, Frische und Authentizität unserer Produkte . Unser Sortiment umfasst Gewürze, Linsen, Reis, Mehl, Currypasten, Fertiggerichte, frisches Gemüse, Tiefkühlprodukte und Fleisch sowie eine große Auswahl an indischen Süßigkeiten und Snacks. Wir sorgen dafür, dass jeder Kunde – sowohl im Groß- als auch im Einzelhandel – alles findet, was er für die Zubereitung traditioneller indischer Gerichte oder zum Entdecken neuer Geschmacksrichtungen benötigt."
+    },
+    {
+     "p": "Unser Unternehmen bietet mehr als nur Verkauf, nämlich auch fachkundige Beratung und eine individuelle Betreuung jedes Kunden. Wir garantieren eine schnelle Auftragsabwicklung, attraktive Kooperationsbedingungen und kontinuierlichen Zugang zu neuen Produkten. Bei uns können Sie sicher sein, dass die in Polen erhältlichen indischen Lebensmittel stets authentisch, frisch und von höchster Qualität sind. Wir laden Einzelhändler, Restaurants und Privatkunden, die die vielfältigen Aromen der asiatischen Küche entdecken möchten, zur Zusammenarbeit ein!"
+    },
+    {
+     "p": "Adresse des Lagers: ul. Krakowska 62, Balice 32-083"
+    },
+    {
+     "p": "Adresse des Einzelhandelsgeschäfts: Powstańców Śląskich 163, Wrocław 53-138"
+    },
+    {
+     "p": "Gründer des Asian Shop:"
+    },
+    {
+     "h": "Aditya Sharma & Abhi Sharma"
+    }
+   ]
+  },
+  "contact": {
+   "title": "Kontakt und Firmendaten",
+   "source": "https://asianshop.pl/de_DE/i/Kontakt-und-Firmendaten/23",
+   "blocks": [
+    {
+     "p": "Firmendaten:"
+    },
+    {
+     "h": "Aditya Sharma Asian Shop"
+    },
+    {
+     "h": "Krakowska 62"
+    },
+    {
+     "p": "32-083 Balice"
+    },
+    {
+     "p": "Steueridentifikationsnummer (NIP): 8961651748"
+    },
+    {
+     "p": "Kontakt:"
+    },
+    {
+     "p": "Wir helfen Ihnen gerne weiter und beantworten Ihre Fragen."
+    },
+    {
+     "p": "Hotline (Montag bis Freitag, 8:00–17:00 Uhr): 514251728"
+    },
+    {
+     "h": "E-Mail-Adresse: biuro@asianshop.pl"
+    },
+    {
+     "h": "Kontaktformular"
+    },
+    {
+     "h": "Pflichtfelder sind mit ... gekennzeichnet -"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "Vor- und Nachname"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "E-mail Adresse"
+    },
+    {
+     "h": "Betreff"
+    },
+    {
+     "h": "*"
+    },
+    {
+     "h": "Nachricht"
+    },
+    {
+     "h": "Senden"
+    }
+   ]
+  },
+  "faq": {
+   "title": "Fragen und Antworten",
+   "source": "https://asianshop.pl/de_DE/i/Fragen-und-Antworten/33",
+   "blocks": [
+    {
+     "h": "Liefern Sie Bestellungen ins Ausland?"
+    },
+    {
+     "p": "Ja, wir versenden Bestellungen in alle Länder der Europäischen Union. Bei der Bestellung wählen Sie das Lieferland und eine in diesem Land verfügbare Versandart aus. Die Lieferung erfolgt per DPD-Kurier."
+    },
+    {
+     "h": "Kann ich ein Produkt zurückgeben oder umtauschen?"
+    },
+    {
+     "p": "Sie können ein Produkt innerhalb von 14 Tagen nach Erhalt Ihrer Bestellung zurückgeben. Weitere Informationen finden Sie auf der Seite: Rückgaben und Beschwerden . Wenn Sie stattdessen ein anderes Produkt bestellen möchten, können Sie das Produkt zurückgeben und eine neue Bestellung aufgeben."
+    }
+   ]
+  }
+ }
+}
