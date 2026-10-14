@@ -1,11 +1,11 @@
 import type { Market } from "./markets";
-import { TODAY } from "./format";
+import { TODAY, freeDeliveryThreshold, fromHome } from "./format";
 
 export type DeliveryMethod = {
   id: string;
   label: string;
   kind: "courier" | "locker" | "pickup";
-  price: number; // in the market currency
+  price: number; // in the country's own currency (converted for display by deliveryPrice)
   days: [number, number]; // working days after dispatch
   freeAboveThreshold: boolean;
   note?: string;
@@ -30,7 +30,7 @@ export function deliveryMethods(m: Market) {
 }
 
 export function deliveryPrice(method: DeliveryMethod, subtotal: number, m: Market) {
-  return method.freeAboveThreshold && subtotal >= m.freeDeliveryFrom ? 0 : method.price;
+  return method.freeAboveThreshold && subtotal >= freeDeliveryThreshold(m) ? 0 : fromHome(method.price, m);
 }
 
 /** Adds working days (Mon–Fri) to the prototype's fixed "today". */
@@ -55,7 +55,14 @@ export function dayLabel(d: Date, m: Market) {
 
 export type PaymentMethod = { id: string; label: string; hint?: string };
 
+// Methods that only settle in one currency: BLIK and cash on delivery in złoty, SEPA and Klarna (DE) in euro.
+const ONLY: Record<string, "PLN" | "EUR"> = { blik: "PLN", cod: "PLN", sepa: "EUR", klarna: "EUR" };
+
 export function paymentMethods(m: Market): PaymentMethod[] {
+  return allPaymentMethods(m).filter((p) => !ONLY[p.id] || ONLY[p.id] === m.currency);
+}
+
+function allPaymentMethods(m: Market): PaymentMethod[] {
   return m.country === "PL"
     ? [
         { id: "blik", label: "BLIK" },

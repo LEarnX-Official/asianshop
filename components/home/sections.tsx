@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { Market } from "@/lib/markets";
 import { dict } from "@/lib/i18n";
-import { money, priceOf } from "@/lib/format";
+import { MoneyOf } from "../product/money-of";
 import type { Brand, Category, Product, Recipe } from "@/lib/types";
 import { TILE_ART } from "@/lib/brand-assets";
 
@@ -168,7 +168,7 @@ export function CookTonight({
             </Link>
           </div>
           <p className="text-xs text-linen/60">
-            {money(ingredients.reduce((s, p) => s + priceOf(p, market), 0), market)} · {t.vatIncluded}
+            <MoneyOf pln={ingredients.reduce((s, p) => s + p.price.pln, 0)} eur={ingredients.reduce((s, p) => s + p.price.eur, 0)} /> · {t.vatIncluded}
           </p>
         </div>
       </div>

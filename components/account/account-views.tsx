@@ -149,7 +149,7 @@ export function AccountView({ demoProducts }: { demoProducts: Product[] }) {
                     ))}
                   </div>
                   <p className={`text-sm font-medium ${step === 3 ? "text-cardamom" : "text-saffron-deep"}`}>● {t[STEP_KEYS[step]]}</p>
-                  <p className="tabular ml-auto font-semibold">{money(o.total, m)}</p>
+                  <p className="tabular ml-auto font-semibold">{money(o.total, { ...m, currency: o.currency })}</p>
                   <Link href={`/${m.code}/account/orders/${o.id}`} className="rounded-full border border-line px-4 py-2 text-sm font-semibold hover:bg-stone">
                     {t.viewOrder}
                   </Link>

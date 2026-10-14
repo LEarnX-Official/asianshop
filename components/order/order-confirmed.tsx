@@ -109,7 +109,7 @@ export function OrderConfirmed({ id, recipes }: { id: string; recipes: Recipe[] 
         {t.expectedLine(a === b ? a : `${a}–${b}`)}
       </motion.p>
       <motion.p {...rise(0.45)} className="mt-2 text-sm text-ink-muted">
-        {t.orderNo} {order.id} · {order.delivery.label} · {money(order.total, m)}
+        {t.orderNo} {order.id} · {order.delivery.label} · {money(order.total, { ...m, currency: order.currency })}
       </motion.p>
       <motion.div {...rise(0.6)} className="mt-8 flex flex-wrap justify-center gap-3">
         <Link href={`/${m.code}/account/orders/${order.id}`} className="rounded-full bg-ink px-6 py-3 text-sm font-semibold text-linen hover:bg-ink-soft">

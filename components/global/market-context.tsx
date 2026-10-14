@@ -1,11 +1,12 @@
 "use client";
 
-import { createContext, useContext, useEffect } from "react";
-import { getMarket, type MarketCode } from "@/lib/markets";
+import { createContext, useContext, useEffect, useMemo } from "react";
+import { getMarket, withCurrency, type MarketCode } from "@/lib/markets";
 import { dict } from "@/lib/i18n";
 import { useBasket } from "@/lib/basket";
 import { useOrders } from "@/lib/orders";
 import { useSession } from "@/lib/session";
+import { useCurrency } from "@/lib/currency";
 
 const MarketContext = createContext<MarketCode>("pl-pl");
 
@@ -15,12 +16,16 @@ export function MarketProvider({ code, children }: { code: MarketCode; children:
     useBasket.persist.rehydrate();
     useOrders.persist.rehydrate();
     useSession.persist.rehydrate();
+    useCurrency.persist.rehydrate();
   }, []);
   return <MarketContext.Provider value={code}>{children}</MarketContext.Provider>;
 }
 
+/** The current market, with prices in the shopper's chosen currency. */
 export function useMarket() {
-  return getMarket(useContext(MarketContext));
+  const code = useContext(MarketContext);
+  const currency = useCurrency((s) => s.currency);
+  return useMemo(() => withCurrency(getMarket(code), currency), [code, currency]);
 }
 
 export function useT() {

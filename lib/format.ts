@@ -1,4 +1,4 @@
-import type { Market } from "./markets";
+import { PLN_PER_EUR, type Market } from "./markets";
 import type { Product } from "./types";
 
 const cache = new Map<string, Intl.NumberFormat>();
@@ -11,6 +11,18 @@ export function money(value: number, market: Market) {
     cache.set(key, f);
   }
   return f.format(value);
+}
+
+/** An amount set in the country's own currency (delivery prices), in the currency prices are shown in. */
+export function fromHome(amount: number, m: Market) {
+  if (m.currency === m.homeCurrency) return amount;
+  const v = m.currency === "EUR" ? amount / PLN_PER_EUR : amount * PLN_PER_EUR;
+  return Math.round(v * 100) / 100;
+}
+
+/** Free-delivery threshold in the shown currency, rounded up to a whole amount (50 zł → 12 €, 49 € → 215 zł). */
+export function freeDeliveryThreshold(m: Market) {
+  return m.currency === m.homeCurrency ? m.freeDeliveryFrom : Math.ceil(fromHome(m.freeDeliveryFrom, m));
 }
 
 export function priceOf(p: Pick<Product, "price">, market: Market) {

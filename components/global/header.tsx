@@ -2,13 +2,14 @@
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useId, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
-import { MARKETS, switchMarketPath, type MarketCode } from "@/lib/markets";
+import { CURRENCIES, MARKETS, switchMarketPath, type MarketCode } from "@/lib/markets";
 import { aisleIcon } from "@/lib/brand-assets";
 import { basketCount, useBasket } from "@/lib/basket";
 import { registerBasketTarget } from "@/lib/fly";
 import { useSession } from "@/lib/session";
+import { useCurrency } from "@/lib/currency";
 import type { Category } from "@/lib/types";
 import { useMarket, useT } from "./market-context";
 import { SearchOverlay } from "../search/search-overlay";
@@ -134,10 +135,9 @@ function MarketSwitcher() {
             exit={{ opacity: 0, y: -6 }}
             transition={{ duration: 0.15 }}
             className="fixed inset-x-4 top-[68px] z-40 rounded-2xl border border-line bg-warm p-2 text-ink shadow-lift sm:absolute sm:inset-x-auto sm:right-0 sm:top-full sm:mt-2 sm:w-72"
-            role="listbox"
-            aria-label={t.marketTitle}
           >
-            <p className="px-3 pb-1 pt-2 text-xs font-semibold uppercase tracking-wider text-ink-muted">{t.marketTitle}</p>
+            <p id="market-list-title" className="px-3 pb-1 pt-2 text-xs font-semibold uppercase tracking-wider text-ink-muted">{t.marketTitle}</p>
+            <div role="listbox" aria-labelledby="market-list-title">
             {(Object.keys(MARKETS) as MarketCode[]).map((code) => {
               const x = MARKETS[code];
               const label = { pl: "Polski", de: "Deutsch", en: "English" }[x.lang];
@@ -153,10 +153,14 @@ function MarketSwitcher() {
                   <span>
                     {x.countryName[m.lang]} · {label}
                   </span>
-                  <span className="text-ink-muted">{x.currency}</span>
+                  {code === m.code ? <span aria-hidden="true" className="text-saffron-text">✓</span> : null}
                 </button>
               );
             })}
+            </div>
+            <div className="mt-1 border-t border-line px-3 pb-2 pt-3">
+              <CurrencyToggle />
+            </div>
           </motion.div>
         ) : null}
       </AnimatePresence>
@@ -184,11 +188,48 @@ function MenuMarkets({ onClose }: { onClose: () => void }) {
               aria-current={active ? "true" : undefined}
               className={`rounded-full border px-3.5 py-2 text-sm ${active ? "border-ink bg-ink font-semibold text-linen" : "border-line bg-warm hover:bg-stone"}`}
             >
-              {x.countryName[m.lang]} · {{ pl: "Polski", de: "Deutsch", en: "English" }[x.lang]} · {x.currency}
+              {x.countryName[m.lang]} · {{ pl: "Polski", de: "Deutsch", en: "English" }[x.lang]}
             </Link>
           );
         })}
       </div>
+      <div className="mt-5">
+        <CurrencyToggle />
+      </div>
+    </div>
+  );
+}
+
+/** Złoty or euro, in any country. Choosing the country's own currency clears the choice. */
+function CurrencyToggle() {
+  const m = useMarket();
+  const t = useT();
+  const setCurrency = useCurrency((s) => s.setCurrency);
+  const id = useId();
+  return (
+    <div>
+      <p id={id} className="text-xs font-semibold uppercase tracking-wider text-ink-muted">
+        {t.currencyTitle}
+      </p>
+      <div role="radiogroup" aria-labelledby={id} className="mt-2 grid grid-cols-2 gap-1 rounded-full bg-stone p-1">
+        {CURRENCIES.map((c) => {
+          const on = m.currency === c;
+          return (
+            <button
+              key={c}
+              type="button"
+              role="radio"
+              aria-checked={on}
+              onClick={() => setCurrency(c === m.homeCurrency ? null : c)}
+              className={`flex h-9 items-center justify-center gap-1.5 rounded-full text-sm transition-colors ${on ? "bg-ink font-semibold text-linen shadow-sm" : "text-ink-soft hover:bg-warm"}`}
+            >
+              <span aria-hidden="true">{c === "PLN" ? "zł" : "€"}</span>
+              <span>{c}</span>
+            </button>
+          );
+        })}
+      </div>
+      <p className="mt-2 text-[11px] leading-snug text-ink-muted">{t.currencyNote}</p>
     </div>
   );
 }

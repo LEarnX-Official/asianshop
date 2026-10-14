@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { Market } from "@/lib/markets";
 import { dict } from "@/lib/i18n";
-import { money, priceOf } from "@/lib/format";
+import { MoneyOf } from "../product/money-of";
 import { getProduct } from "@/lib/catalog";
 import { campaignsFor, type Campaign } from "@/lib/brand-assets";
 import { SectionHead } from "./sections";
@@ -35,7 +35,7 @@ function Caption({ c, market }: { c: Campaign; market: Market }) {
         </p>
       </div>
       <p className="flex shrink-0 items-center gap-3">
-        <span className="tabular font-semibold">{money(priceOf(p, market), market)}</span>
+        <span className="tabular font-semibold"><MoneyOf pln={p.price.pln} eur={p.price.eur} /></span>
         <span className="hidden text-sm font-semibold text-saffron-text group-hover:underline sm:inline">{t.campaignCta} →</span>
       </p>
     </div>

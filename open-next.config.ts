@@ -3,10 +3,12 @@ import staticAssetsIncrementalCache from "@opennextjs/cloudflare/overrides/incre
 
 // Every page is prerendered at build time and nothing revalidates, so the cache is served read-only
 // from the deployed static assets (no R2 bucket needed).
-export default {
+const config = {
   ...defineCloudflareConfig({
     incrementalCache: staticAssetsIncrementalCache,
   }),
   // `npm run build` IS the Cloudflare build (so the dashboard defaults work); Next itself is built directly here.
   buildCommand: "npx next build",
 };
+
+export default config;

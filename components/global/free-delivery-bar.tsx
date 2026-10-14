@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { money } from "@/lib/format";
+import { money, freeDeliveryThreshold } from "@/lib/format";
 import { basketTotal, useBasket } from "@/lib/basket";
 import { useMarket, useT } from "./market-context";
 
@@ -10,8 +10,9 @@ export function FreeDeliveryBar() {
   const m = useMarket();
   const t = useT();
   const total = useBasket((s) => basketTotal(s.lines, m.currency));
-  const left = Math.max(0, m.freeDeliveryFrom - total);
-  const pct = Math.min(1, total / m.freeDeliveryFrom);
+  const threshold = freeDeliveryThreshold(m);
+  const left = Math.max(0, threshold - total);
+  const pct = Math.min(1, total / threshold);
   const unlocked = left <= 0 && total > 0;
   const was = useRef(unlocked);
   const [sweep, setSweep] = useState(0);
